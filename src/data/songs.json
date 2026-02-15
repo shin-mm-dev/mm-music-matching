@@ -1,0 +1,187 @@
+[
+  {
+    "id": "mm-001",
+    "title": "LOVEマシーン",
+    "titleReading": "ラブマシーン",
+    "releaseDate": "1999-09-09",
+    "releaseType": "single",
+    "memberEra": "3期",
+    "spotifyId": "0Pvf8fmUVKwYttgVyj94zD",
+    "composer": {
+      "lyricist": "つんく",
+      "composer": "つんく",
+      "arranger": "ダンス☆マン",
+      "isTsunku": true
+    },
+    "musicalProfile": {
+      "key": "C major",
+      "mode": "major",
+      "bpm": 128,
+      "tempo": "up-tempo",
+      "genre": ["pop", "eurobeat", "disco"],
+      "energy": 10,
+      "instrumentalMood": ["bright", "playful", "euphoric"]
+    },
+    "lyricalProfile": {
+      "themes": ["love", "empowerment", "social", "humor"],
+      "emotionalTone": ["joyful", "defiant", "hopeful"],
+      "lyricMoodScore": 9,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": {
+      "score": 2,
+      "description": "音楽も歌詞も全力で明るい。ギャップは小さく、ストレートな応援歌",
+      "musicalMoodScore": 10
+    },
+    "moodTags": ["元気を出したい", "テンション上げたい", "踊りたい", "強くなりたい"],
+    "situations": ["カラオケ", "ワークアウト", "パーティー", "友達と", "通勤"]
+  },
+  {
+    "id": "mm-002",
+    "title": "恋愛レボリューション21",
+    "titleReading": "れんあいレボリューションにじゅういち",
+    "releaseDate": "2000-12-13",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "1CEEkRCYocoF42OrI7Sm4N",
+    "composer": {
+      "lyricist": "つんく",
+      "composer": "つんく",
+      "arranger": "ダンス☆マン",
+      "isTsunku": true
+    },
+    "musicalProfile": {
+      "key": "G major",
+      "mode": "major",
+      "bpm": 155,
+      "tempo": "hyper",
+      "genre": ["pop", "disco", "funk"],
+      "energy": 9,
+      "instrumentalMood": ["bright", "playful", "dramatic"]
+    },
+    "lyricalProfile": {
+      "themes": ["love", "youth", "empowerment"],
+      "emotionalTone": ["joyful", "hopeful", "defiant"],
+      "lyricMoodScore": 8,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": {
+      "score": 3,
+      "description": "超アップテンポなディスコサウンドに乗せて、恋に前向きな気持ちを歌う。音楽と歌詞の方向性はほぼ一致",
+      "musicalMoodScore": 9
+    },
+    "moodTags": ["テンション上げたい", "踊りたい", "恋してる", "元気を出したい"],
+    "situations": ["カラオケ", "ワークアウト", "パーティー", "友達と"]
+  },
+  {
+    "id": "mm-003",
+    "title": "ザ☆ピ〜ス!",
+    "titleReading": "ざぴーす",
+    "releaseDate": "2001-07-25",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "7sJyncbLL7TKRq1tZqZybK",
+    "composer": {
+      "lyricist": "つんく",
+      "composer": "つんく",
+      "arranger": "ダンス☆マン",
+      "isTsunku": true
+    },
+    "musicalProfile": {
+      "key": "F major",
+      "mode": "major",
+      "bpm": 135,
+      "tempo": "up-tempo",
+      "genre": ["pop", "funk", "disco"],
+      "energy": 8,
+      "instrumentalMood": ["bright", "playful", "nostalgic"]
+    },
+    "lyricalProfile": {
+      "themes": ["social", "humor", "empowerment", "love"],
+      "emotionalTone": ["joyful", "hopeful", "bittersweet"],
+      "lyricMoodScore": 7,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": {
+      "score": 5,
+      "description": "ファンキーで明るいサウンドだが、歌詞は世界平和への願いや日常の小さな幸せを綴る。楽しさの裏に真面目なメッセージ",
+      "musicalMoodScore": 9
+    },
+    "moodTags": ["元気を出したい", "何も考えたくない", "テンション上げたい", "懐かしい気持ち"],
+    "situations": ["友達と", "通勤", "作業中", "カラオケ"]
+  },
+  {
+    "id": "mm-004",
+    "title": "モーニングコーヒー",
+    "titleReading": "もーにんぐこーひー",
+    "releaseDate": "1998-01-28",
+    "releaseType": "single",
+    "memberEra": "1期",
+    "spotifyId": "7FLUKOuSYyKXSg9YzU0Hz8",
+    "composer": {
+      "lyricist": "つんく",
+      "composer": "つんく",
+      "arranger": "渡部チェル",
+      "isTsunku": true
+    },
+    "musicalProfile": {
+      "key": "D major",
+      "mode": "major",
+      "bpm": 108,
+      "tempo": "mid-tempo",
+      "genre": ["pop", "r&b"],
+      "energy": 4,
+      "instrumentalMood": ["nostalgic", "bright", "playful"]
+    },
+    "lyricalProfile": {
+      "themes": ["love", "youth", "loneliness"],
+      "emotionalTone": ["bittersweet", "hopeful", "anxious"],
+      "lyricMoodScore": 5,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": {
+      "score": 4,
+      "description": "可愛らしいポップなメロディだが、歌詞は片思いの不安と切なさを歌う。甘い音楽と胸の痛みのコントラスト",
+      "musicalMoodScore": 7
+    },
+    "moodTags": ["恋してる", "懐かしい気持ち", "落ち着きたい", "泣きたい"],
+    "situations": ["寝る前", "夜ひとりで", "カフェ", "雨の日"]
+  },
+  {
+    "id": "mm-005",
+    "title": "Memory 青春の光",
+    "titleReading": "メモリー せいしゅんのひかり",
+    "releaseDate": "1999-02-10",
+    "releaseType": "single",
+    "memberEra": "2期",
+    "spotifyId": "5AnYyl8goUKgZcFXWE3cJN",
+    "composer": {
+      "lyricist": "つんく",
+      "composer": "つんく",
+      "arranger": "ダンス☆マン",
+      "isTsunku": true
+    },
+    "musicalProfile": {
+      "key": "A minor",
+      "mode": "minor",
+      "bpm": 130,
+      "tempo": "up-tempo",
+      "genre": ["pop", "eurobeat"],
+      "energy": 7,
+      "instrumentalMood": ["nostalgic", "dramatic", "bright"]
+    },
+    "lyricalProfile": {
+      "themes": ["youth", "heartbreak", "loneliness"],
+      "emotionalTone": ["melancholic", "bittersweet", "hopeful"],
+      "lyricMoodScore": 4,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": {
+      "score": 7,
+      "description": "ユーロビート調のアップテンポなサウンドに乗せて、過ぎ去った青春と別れの切なさを歌う。踊れるのに泣ける、つんく♂の真骨頂",
+      "musicalMoodScore": 8
+    },
+    "moodTags": ["懐かしい気持ち", "泣きたい", "強くなりたい", "元気を出したい"],
+    "situations": ["夜ひとりで", "通勤", "ワークアウト", "雨の日"]
+  }
+]

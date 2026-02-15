@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-pink-50: #fdf2f6;
+  --color-pink-100: #fce7ef;
+  --color-pink-200: #fbc0d5;
+  --color-pink-300: #f890b3;
+  --color-pink-400: #f06090;
+  --color-pink-500: #e5457d;
+  --color-pink-600: #cc2d62;
+  --color-pink-700: #a3234e;
+  --color-pink-800: #7a1a3b;
+  --color-pink-900: #521227;
+
+  --font-sans: var(--font-geist-sans), "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
+}
+
+body {
+  background: #ffffff;
+  color: #171717;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
