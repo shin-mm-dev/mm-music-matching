@@ -12,6 +12,8 @@ const MOOD_OPTIONS = [
   { tag: "踊りたい", emoji: "💃" },
 ] as const
 
+const MAX_MOOD_SELECTION = 3
+
 interface MoodSelectorProps {
   selected: string[]
   onChange: (tags: string[]) => void
@@ -19,9 +21,10 @@ interface MoodSelectorProps {
 
 export function MoodSelector({ selected, onChange }: MoodSelectorProps) {
   const toggle = (tag: string) => {
-    const next = selected.includes(tag)
-      ? selected.filter((t) => t !== tag)
-      : [...selected, tag]
+    const isSelected = selected.includes(tag)
+    if (!isSelected && selected.length >= MAX_MOOD_SELECTION) return
+
+    const next = isSelected ? selected.filter((t) => t !== tag) : [...selected, tag]
     onChange(next)
   }
 
@@ -36,18 +39,23 @@ export function MoodSelector({ selected, onChange }: MoodSelectorProps) {
       <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
         {MOOD_OPTIONS.map(({ tag, emoji }) => {
           const isSelected = selected.includes(tag)
+          const isDisabled = !isSelected && selected.length >= MAX_MOOD_SELECTION
           return (
             <button
               key={tag}
               type="button"
               onClick={() => toggle(tag)}
+              disabled={isDisabled}
+              aria-pressed={isSelected}
               className={`
                 flex items-center gap-2 px-4 py-3 rounded-xl text-sm font-medium
                 transition-all duration-200
                 ${
                   isSelected
                     ? "bg-pink-500 text-white shadow-md scale-[1.02]"
-                    : "bg-white text-gray-700 border border-gray-200 hover:border-pink-300 hover:bg-pink-50"
+                    : isDisabled
+                      ? "bg-gray-100 text-gray-400 border border-gray-200 cursor-not-allowed"
+                      : "bg-white text-gray-700 border border-gray-200 hover:border-pink-300 hover:bg-pink-50"
                 }
               `}
             >
@@ -57,6 +65,9 @@ export function MoodSelector({ selected, onChange }: MoodSelectorProps) {
           )
         })}
       </div>
+      {selected.length >= MAX_MOOD_SELECTION && (
+        <p className="mt-2 text-xs text-pink-600">気分タグは3個まで選べます。</p>
+      )}
     </div>
   )
 }

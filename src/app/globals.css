@@ -12,8 +12,8 @@
   --color-pink-800: #7a1a3b;
   --color-pink-900: #521227;
 
-  --font-sans: var(--font-geist-sans), "Hiragino Kaku Gothic ProN",
-    "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
+  --font-sans: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic",
+    "Meiryo", sans-serif;
 }
 
 body {
