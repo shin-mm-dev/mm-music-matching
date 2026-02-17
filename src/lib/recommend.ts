@@ -1,5 +1,12 @@
 import type { Song, UserMood, ScoredSong } from "@/types/song"
 
+function isBalladLike(song: Song): boolean {
+  return (
+    song.musicalProfile.tempo === "ballad" ||
+    (song.musicalProfile.tempo === "mid-tempo" && song.musicalProfile.energy <= 6)
+  )
+}
+
 function buildMatchReasons(song: Song, mood: UserMood): string[] {
   const reasons: string[] = []
 
@@ -19,7 +26,7 @@ function buildMatchReasons(song: Song, mood: UserMood): string[] {
     reasons.push("アップテンポな曲調")
   } else if (
     mood.tempoPreference === "ballad" &&
-    song.musicalProfile.tempo === "ballad"
+    isBalladLike(song)
   ) {
     reasons.push("落ち着いたバラード")
   }
@@ -44,7 +51,7 @@ function calculateScore(song: Song, mood: UserMood): number {
     score += 15
   } else if (
     mood.tempoPreference === "ballad" &&
-    song.musicalProfile.tempo === "ballad"
+    isBalladLike(song)
   ) {
     score += 15
   } else if (mood.tempoPreference === "any") {
@@ -58,7 +65,7 @@ export function recommendSongs(
   mood: UserMood,
   songs: readonly Song[]
 ): ScoredSong[] {
-  return songs
+  const scored = songs
     .filter((song) => song.releaseType === "single" && song.spotifyId !== null)
     .map((song) => ({
       song,
@@ -66,5 +73,6 @@ export function recommendSongs(
       matchReasons: buildMatchReasons(song, mood),
     }))
     .sort((a, b) => b.score - a.score)
-    .slice(0, 10)
+
+  return scored.filter((item) => item.score > 0).slice(0, 10)
 }
