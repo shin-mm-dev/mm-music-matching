@@ -17,6 +17,7 @@
     "check:data-quality": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/check/validate-pipeline-output.ts --mode=single",
     "check:data-quality:catalog": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/check/validate-pipeline-output.ts --mode=catalog",
     "check:data-quality:single": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/check/validate-pipeline-output.ts --mode=single",
+    "check:data-quality:public": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/check/validate-pipeline-output.ts --mode=public",
     "check:smoke": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/check/smoke-app.ts"
   },
   "dependencies": {

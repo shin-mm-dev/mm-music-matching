@@ -32,7 +32,7 @@ jobs:
         run: npm ci
 
       - name: Verify data quality
-        run: npm run check:data-quality
+        run: npm run check:data-quality:public
 
       - name: Lint
         run: npm run lint

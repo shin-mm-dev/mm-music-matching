@@ -33,6 +33,10 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# private collected text data (do not publish)
+scripts/data/lyrics.json
+scripts/data/web-data.json
+
 # vercel
 .vercel
 
