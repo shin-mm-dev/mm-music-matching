@@ -37,6 +37,13 @@ yarn-error.log*
 scripts/data/lyrics.json
 scripts/data/web-data.json
 
+# private project docs and pipelines (do not publish)
+HANDOFF.md
+PLAN.md
+RELEASE.md
+HISTORY-GUIDE.md
+scripts/
+
 # vercel
 .vercel
 

@@ -13,19 +13,9 @@ npm run dev
 ## リリース前チェック
 
 ```bash
-npm run check:data-quality
 npm run lint
 npm run build
-npm run check:smoke
 ```
-
-注: GitHub Actions（公開リポジトリ）では、歌詞由来データを含まない `npm run check:data-quality:public` を使います。
-
-## 公開リポジトリ運用（重要）
-
-- `scripts/data/lyrics.json` と `scripts/data/web-data.json` は公開しない方針です
-- これらは `.gitignore` で除外され、ローカル運用専用です
-- 公開側は `src/data/songs.json` のみで動作します
 
 ## GitHub Pages デプロイ
 
