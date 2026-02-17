@@ -13,7 +13,6 @@ export default function Home() {
   const [moodTags, setMoodTags] = useState<string[]>([])
   const [tempo, setTempo] = useState<TempoPreference | undefined>(undefined)
   const [situation, setSituation] = useState<string | undefined>(undefined)
-  const [allowGap, setAllowGap] = useState(false)
 
   const canSubmit = moodTags.length >= 1 && moodTags.length <= 3
 
@@ -24,7 +23,6 @@ export default function Home() {
     params.set("moods", moodTags.join(","))
     if (tempo) params.set("tempo", tempo)
     if (situation) params.set("situation", situation)
-    if (allowGap) params.set("gap", "1")
 
     router.push(`/recommend?${params.toString()}`)
   }
@@ -45,34 +43,6 @@ export default function Home() {
           <MoodSelector selected={moodTags} onChange={setMoodTags} />
           <TempoSelector selected={tempo} onChange={setTempo} />
           <SituationSelector selected={situation} onChange={setSituation} />
-
-          <div className="flex items-center justify-between p-4 bg-white rounded-xl border border-gray-200">
-            <div>
-              <p className="text-sm font-bold text-gray-800">
-                意外な選曲もあり？
-              </p>
-              <p className="text-xs text-gray-500 mt-0.5">
-                つんく♂の音楽と歌詞のギャップを活かした提案
-              </p>
-            </div>
-            <button
-              type="button"
-              onClick={() => setAllowGap((prev) => !prev)}
-              className={`
-                relative w-12 h-7 rounded-full transition-colors duration-200
-                ${allowGap ? "bg-pink-500" : "bg-gray-300"}
-              `}
-              role="switch"
-              aria-checked={allowGap}
-            >
-              <span
-                className={`
-                  absolute top-0.5 left-0.5 w-6 h-6 bg-white rounded-full shadow transition-transform duration-200
-                  ${allowGap ? "translate-x-5" : "translate-x-0"}
-                `}
-              />
-            </button>
-          </div>
 
           <button
             type="button"

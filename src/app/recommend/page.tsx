@@ -16,13 +16,11 @@ function RecommendResults() {
   const moodTags = searchParams.get("moods")?.split(",").filter(Boolean) ?? []
   const tempoPreference = searchParams.get("tempo") as UserMood["tempoPreference"] | null
   const situation = searchParams.get("situation") ?? undefined
-  const allowTsunkuGap = searchParams.get("gap") === "1"
 
   const mood: UserMood = {
     moodTags,
     tempoPreference: tempoPreference ?? undefined,
     situation,
-    allowTsunkuGap,
   }
 
   const results = recommendSongs(mood, songs)

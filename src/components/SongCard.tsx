@@ -1,5 +1,4 @@
 import type { ScoredSong } from "@/types/song"
-import { TsunkuGapBadge } from "./TsunkuGapBadge"
 
 interface SongCardProps {
   scoredSong: ScoredSong
@@ -40,10 +39,6 @@ export function SongCard({ scoredSong, rank }: SongCardProps) {
             </span>
           ))}
         </div>
-      )}
-
-      {song.tsunkuGap && song.tsunkuGap.score >= 4 && (
-        <TsunkuGapBadge tsunkuGap={song.tsunkuGap} />
       )}
 
       {spotifyUrl && (

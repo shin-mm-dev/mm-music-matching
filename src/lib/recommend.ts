@@ -24,14 +24,6 @@ function buildMatchReasons(song: Song, mood: UserMood): string[] {
     reasons.push("落ち着いたバラード")
   }
 
-  if (
-    mood.allowTsunkuGap &&
-    song.tsunkuGap &&
-    song.tsunkuGap.score >= 6
-  ) {
-    reasons.push("つんく♂の意外な一面が光る楽曲")
-  }
-
   return reasons
 }
 
@@ -59,14 +51,6 @@ function calculateScore(song: Song, mood: UserMood): number {
     score += 5
   }
 
-  if (
-    mood.allowTsunkuGap &&
-    song.tsunkuGap &&
-    song.tsunkuGap.score >= 6
-  ) {
-    score += song.tsunkuGap.score * 2
-  }
-
   return score
 }
 
@@ -75,7 +59,7 @@ export function recommendSongs(
   songs: readonly Song[]
 ): ScoredSong[] {
   return songs
-    .filter((song) => song.spotifyId !== null)
+    .filter((song) => song.releaseType === "single" && song.spotifyId !== null)
     .map((song) => ({
       song,
       score: calculateScore(song, mood),

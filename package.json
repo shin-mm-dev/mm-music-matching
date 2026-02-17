@@ -7,12 +7,16 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "data:fetch-playlist": "tsx scripts/data/fetch-playlist.ts",
-    "data:fetch-spotify": "ts-node scripts/data/spotify-fetch.ts",
-    "collect:youtube-comments": "ts-node scripts/collect/youtube-comments.ts",
-    "collect:web-search-lyrics": "ts-node scripts/collect/web-search-lyrics.ts",
-    "analyze:estimate-audio-features": "ts-node scripts/analyze/estimate-audio-features.ts",
-    "finalize:merge-songs": "ts-node scripts/finalize/merge-songs.ts"
+    "data:fetch-playlist": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/data/fetch-playlist.ts",
+    "data:fetch-spotify": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/data/spotify-fetch.ts",
+    "collect:youtube-comments": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/collect/youtube-comments.ts",
+    "collect:web-search-lyrics": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/collect/web-search-lyrics.ts",
+    "analyze:build-song-enrichment": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/analyze/build-song-enrichment.ts",
+    "analyze:estimate-audio-features": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/analyze/estimate-audio-features.ts",
+    "finalize:merge-songs": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/finalize/merge-songs.ts",
+    "check:data-quality": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/check/validate-pipeline-output.ts --mode=single",
+    "check:data-quality:catalog": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/check/validate-pipeline-output.ts --mode=catalog",
+    "check:data-quality:single": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/check/validate-pipeline-output.ts --mode=single"
   },
   "dependencies": {
     "next": "16.1.6",

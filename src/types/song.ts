@@ -45,7 +45,6 @@ export interface UserMood {
   moodTags: string[]
   tempoPreference?: "ballad" | "up-tempo" | "any"
   situation?: string
-  allowTsunkuGap: boolean
 }
 
 export interface ScoredSong {
