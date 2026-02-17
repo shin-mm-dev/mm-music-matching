@@ -48,7 +48,7 @@ export function MoodSelector({ selected, onChange }: MoodSelectorProps) {
               disabled={isDisabled}
               aria-pressed={isSelected}
               className={`
-                flex items-center gap-2 px-4 py-3 rounded-xl text-sm font-medium
+                flex items-center justify-center gap-2 px-3 py-3 rounded-xl text-[13px] sm:text-sm font-medium whitespace-nowrap
                 transition-all duration-200
                 ${
                   isSelected
@@ -60,7 +60,7 @@ export function MoodSelector({ selected, onChange }: MoodSelectorProps) {
               `}
             >
               <span className="text-lg">{emoji}</span>
-              <span>{tag}</span>
+              <span className="whitespace-nowrap">{tag}</span>
             </button>
           )
         })}

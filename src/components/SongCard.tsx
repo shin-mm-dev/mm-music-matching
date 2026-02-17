@@ -11,6 +11,9 @@ export function SongCard({ scoredSong, rank }: SongCardProps) {
   const spotifyUrl = song.spotifyId
     ? `https://open.spotify.com/track/${song.spotifyId}`
     : null
+  const spotifyEmbedUrl = song.spotifyId
+    ? `https://open.spotify.com/embed/track/${song.spotifyId}?utm_source=generator`
+    : null
 
   return (
     <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 transition-all duration-200 hover:shadow-md">
@@ -41,8 +44,23 @@ export function SongCard({ scoredSong, rank }: SongCardProps) {
         </div>
       )}
 
-      {spotifyUrl && (
+      {spotifyEmbedUrl && (
         <div className="mt-4">
+          <iframe
+            title={`${song.title} Spotify Player`}
+            src={spotifyEmbedUrl}
+            width="100%"
+            height="152"
+            style={{ border: 0 }}
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            loading="lazy"
+            referrerPolicy="strict-origin-when-cross-origin"
+          />
+        </div>
+      )}
+
+      {spotifyUrl && (
+        <div className="mt-3">
           <a
             href={spotifyUrl}
             target="_blank"

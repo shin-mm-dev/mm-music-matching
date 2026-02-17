@@ -31,8 +31,13 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-b from-pink-50 to-white">
       <div className="max-w-lg mx-auto px-4 py-8">
         <header className="text-center mb-8">
-          <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-900">
-            <span className="text-pink-500">♪</span> ムスメの気分
+          <h1 className="font-extrabold text-gray-900 leading-tight tracking-tight">
+            <span className="block text-[1.5rem] sm:text-[1.9rem]">
+              モーニング娘。
+            </span>
+            <span className="mt-1 block text-[1.05rem] sm:text-[1.35rem] text-pink-600">
+              サブスク楽曲レコメンド
+            </span>
           </h1>
           <p className="text-sm text-gray-500 mt-2">
             あなたの気分にぴったりのモーニング娘。の楽曲を見つけよう
@@ -49,7 +54,7 @@ export default function Home() {
             onClick={handleSubmit}
             disabled={!canSubmit}
             className={`
-              w-full py-4 rounded-2xl text-lg font-bold transition-all duration-200
+              w-full py-4 rounded-2xl text-lg font-bold whitespace-nowrap transition-all duration-200
               ${
                 canSubmit
                   ? "bg-pink-500 text-white shadow-lg hover:bg-pink-600 hover:shadow-xl active:scale-[0.98]"

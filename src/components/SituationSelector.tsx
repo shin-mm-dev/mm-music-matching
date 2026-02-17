@@ -36,7 +36,7 @@ export function SituationSelector({ selected, onChange }: SituationSelectorProps
               type="button"
               onClick={() => toggle(value)}
               className={`
-                flex items-center gap-1.5 px-3 py-2 rounded-full text-sm font-medium
+                flex items-center gap-1.5 px-3 py-2 rounded-full text-[13px] sm:text-sm font-medium whitespace-nowrap
                 transition-all duration-200
                 ${
                   isSelected
@@ -46,7 +46,7 @@ export function SituationSelector({ selected, onChange }: SituationSelectorProps
               `}
             >
               <span>{emoji}</span>
-              <span>{value}</span>
+              <span className="whitespace-nowrap">{value}</span>
             </button>
           )
         })}

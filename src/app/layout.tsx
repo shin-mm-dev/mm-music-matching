@@ -2,11 +2,11 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "ムスメの気分 — モーニング娘。楽曲レコメンド",
+  title: "モーニング娘。サブスク楽曲レコメンド",
   description:
     "あなたの気分にぴったりのモーニング娘。の楽曲を見つけよう。つんく♂が生み出す音楽と歌詞のギャップを活かした、ユニークなレコメンデーション。",
   openGraph: {
-    title: "ムスメの気分",
+    title: "モーニング娘。サブスク楽曲レコメンド",
     description: "気分に合ったモーニング娘。の楽曲をレコメンド",
     type: "website",
     locale: "ja_JP",

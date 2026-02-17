@@ -1,7 +1,7 @@
 "use client"
 
 import { useSearchParams, useRouter } from "next/navigation"
-import { Suspense } from "react"
+import { Suspense, useState } from "react"
 import { recommendSongs } from "@/lib/recommend"
 import { SongCard } from "@/components/SongCard"
 import songsData from "@/data/songs.json"
@@ -12,6 +12,7 @@ const songs = songsData as Song[]
 function RecommendResults() {
   const searchParams = useSearchParams()
   const router = useRouter()
+  const [shuffleSeed] = useState(() => Math.floor(Math.random() * 0x7fffffff))
 
   const moodTags = searchParams.get("moods")?.split(",").filter(Boolean) ?? []
   const tempoPreference = searchParams.get("tempo") as UserMood["tempoPreference"] | null
@@ -23,7 +24,7 @@ function RecommendResults() {
     situation,
   }
 
-  const results = recommendSongs(mood, songs)
+  const results = recommendSongs(mood, songs, { seed: shuffleSeed })
 
   if (moodTags.length === 0) {
     return (

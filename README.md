@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## モーニング娘。サブスク楽曲レコメンド
 
-## Getting Started
+モーニング娘。シングル119曲を対象に、気分に合わせて楽曲を提案するNext.jsアプリです。
 
-First, run the development server:
+## ローカル起動
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`http://localhost:3000` を開いて確認できます。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## リリース前チェック
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run check:data-quality
+npm run lint
+npm run build
+npm run check:smoke
+```
 
-## Learn More
+## GitHub Pages デプロイ
 
-To learn more about Next.js, take a look at the following resources:
+このリポジトリは GitHub Actions で GitHub Pages へ自動デプロイする構成です。
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1. GitHub側の設定（最初に1回だけ）
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. GitHubリポジトリの `Settings` を開く
+2. `Pages` を開く
+3. `Source` を `GitHub Actions` に設定して保存
 
-## Deploy on Vercel
+### 2. 公開フロー
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `main` に push すると、`.github/workflows/deploy-pages.yml` が走って自動公開
+- 手動実行したいときは `Actions` タブから `Deploy GitHub Pages` を `Run workflow`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 3. 公開URL
+
+- 通常: `https://<GitHubユーザー名>.github.io/<リポジトリ名>/`
+- 例: `https://shin-mm-dev.github.io/musume-mood/`

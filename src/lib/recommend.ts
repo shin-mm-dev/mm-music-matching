@@ -1,5 +1,9 @@
 import type { Song, UserMood, ScoredSong } from "@/types/song"
 
+interface RecommendOptions {
+  seed?: number
+}
+
 function isBalladLike(song: Song): boolean {
   return (
     song.musicalProfile.tempo === "ballad" ||
@@ -61,10 +65,25 @@ function calculateScore(song: Song, mood: UserMood): number {
   return score
 }
 
+function getTieBreaker(songId: string, seed: number): number {
+  const input = `${seed}:${songId}`
+  let hash = 2166136261
+
+  for (let index = 0; index < input.length; index += 1) {
+    hash ^= input.charCodeAt(index)
+    hash = Math.imul(hash, 16777619)
+  }
+
+  return hash >>> 0
+}
+
 export function recommendSongs(
   mood: UserMood,
-  songs: readonly Song[]
+  songs: readonly Song[],
+  options?: RecommendOptions
 ): ScoredSong[] {
+  const seed = options?.seed ?? 0
+
   const scored = songs
     .filter((song) => song.releaseType === "single" && song.spotifyId !== null)
     .map((song) => ({
@@ -72,7 +91,15 @@ export function recommendSongs(
       score: calculateScore(song, mood),
       matchReasons: buildMatchReasons(song, mood),
     }))
-    .sort((a, b) => b.score - a.score)
+    .sort((a, b) => {
+      if (a.score !== b.score) {
+        return b.score - a.score
+      }
+
+      const tieA = getTieBreaker(a.song.id, seed)
+      const tieB = getTieBreaker(b.song.id, seed)
+      return tieA - tieB || a.song.id.localeCompare(b.song.id)
+    })
 
   return scored.filter((item) => item.score > 0).slice(0, 10)
 }
