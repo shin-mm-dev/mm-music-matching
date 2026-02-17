@@ -1,187 +1,6427 @@
 [
   {
     "id": "mm-001",
-    "title": "LOVEマシーン",
-    "titleReading": "ラブマシーン",
-    "releaseDate": "1999-09-09",
+    "title": "愛の種",
+    "titleReading": "愛の種",
+    "releaseDate": "1997-11-03",
     "releaseType": "single",
-    "memberEra": "3期",
-    "spotifyId": "0Pvf8fmUVKwYttgVyj94zD",
+    "memberEra": "1期",
+    "spotifyId": "1SnNdWTBYE5o049p9z27Lo",
     "composer": {
-      "lyricist": "つんく",
-      "composer": "つんく",
-      "arranger": "ダンス☆マン",
-      "isTsunku": true
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
     },
     "musicalProfile": {
-      "key": "C major",
+      "key": "不明",
       "mode": "major",
-      "bpm": 128,
+      "bpm": 142,
       "tempo": "up-tempo",
-      "genre": ["pop", "eurobeat", "disco"],
-      "energy": 10,
-      "instrumentalMood": ["bright", "playful", "euphoric"]
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
     },
     "lyricalProfile": {
-      "themes": ["love", "empowerment", "social", "humor"],
-      "emotionalTone": ["joyful", "defiant", "hopeful"],
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
       "lyricMoodScore": 9,
       "perspective": "first-person"
     },
-    "tsunkuGap": {
-      "score": 2,
-      "description": "音楽も歌詞も全力で明るい。ギャップは小さく、ストレートな応援歌",
-      "musicalMoodScore": 10
-    },
-    "moodTags": ["元気を出したい", "テンション上げたい", "踊りたい", "強くなりたい"],
-    "situations": ["カラオケ", "ワークアウト", "パーティー", "友達と", "通勤"]
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
   },
   {
     "id": "mm-002",
-    "title": "恋愛レボリューション21",
-    "titleReading": "れんあいレボリューションにじゅういち",
-    "releaseDate": "2000-12-13",
-    "releaseType": "single",
-    "memberEra": "4期",
-    "spotifyId": "1CEEkRCYocoF42OrI7Sm4N",
-    "composer": {
-      "lyricist": "つんく",
-      "composer": "つんく",
-      "arranger": "ダンス☆マン",
-      "isTsunku": true
-    },
-    "musicalProfile": {
-      "key": "G major",
-      "mode": "major",
-      "bpm": 155,
-      "tempo": "hyper",
-      "genre": ["pop", "disco", "funk"],
-      "energy": 9,
-      "instrumentalMood": ["bright", "playful", "dramatic"]
-    },
-    "lyricalProfile": {
-      "themes": ["love", "youth", "empowerment"],
-      "emotionalTone": ["joyful", "hopeful", "defiant"],
-      "lyricMoodScore": 8,
-      "perspective": "first-person"
-    },
-    "tsunkuGap": {
-      "score": 3,
-      "description": "超アップテンポなディスコサウンドに乗せて、恋に前向きな気持ちを歌う。音楽と歌詞の方向性はほぼ一致",
-      "musicalMoodScore": 9
-    },
-    "moodTags": ["テンション上げたい", "踊りたい", "恋してる", "元気を出したい"],
-    "situations": ["カラオケ", "ワークアウト", "パーティー", "友達と"]
-  },
-  {
-    "id": "mm-003",
-    "title": "ザ☆ピ〜ス!",
-    "titleReading": "ざぴーす",
-    "releaseDate": "2001-07-25",
-    "releaseType": "single",
-    "memberEra": "4期",
-    "spotifyId": "7sJyncbLL7TKRq1tZqZybK",
-    "composer": {
-      "lyricist": "つんく",
-      "composer": "つんく",
-      "arranger": "ダンス☆マン",
-      "isTsunku": true
-    },
-    "musicalProfile": {
-      "key": "F major",
-      "mode": "major",
-      "bpm": 135,
-      "tempo": "up-tempo",
-      "genre": ["pop", "funk", "disco"],
-      "energy": 8,
-      "instrumentalMood": ["bright", "playful", "nostalgic"]
-    },
-    "lyricalProfile": {
-      "themes": ["social", "humor", "empowerment", "love"],
-      "emotionalTone": ["joyful", "hopeful", "bittersweet"],
-      "lyricMoodScore": 7,
-      "perspective": "first-person"
-    },
-    "tsunkuGap": {
-      "score": 5,
-      "description": "ファンキーで明るいサウンドだが、歌詞は世界平和への願いや日常の小さな幸せを綴る。楽しさの裏に真面目なメッセージ",
-      "musicalMoodScore": 9
-    },
-    "moodTags": ["元気を出したい", "何も考えたくない", "テンション上げたい", "懐かしい気持ち"],
-    "situations": ["友達と", "通勤", "作業中", "カラオケ"]
-  },
-  {
-    "id": "mm-004",
     "title": "モーニングコーヒー",
-    "titleReading": "もーにんぐこーひー",
+    "titleReading": "モーニングコーヒー",
     "releaseDate": "1998-01-28",
     "releaseType": "single",
     "memberEra": "1期",
-    "spotifyId": "7FLUKOuSYyKXSg9YzU0Hz8",
+    "spotifyId": "0Mc8DETpxx3bZpu8ek2aRm",
     "composer": {
-      "lyricist": "つんく",
-      "composer": "つんく",
-      "arranger": "渡部チェル",
-      "isTsunku": true
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
     },
     "musicalProfile": {
-      "key": "D major",
+      "key": "不明",
       "mode": "major",
-      "bpm": 108,
-      "tempo": "mid-tempo",
-      "genre": ["pop", "r&b"],
-      "energy": 4,
-      "instrumentalMood": ["nostalgic", "bright", "playful"]
+      "bpm": 127,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 6,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
     },
     "lyricalProfile": {
-      "themes": ["love", "youth", "loneliness"],
-      "emotionalTone": ["bittersweet", "hopeful", "anxious"],
-      "lyricMoodScore": 5,
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet"
+      ],
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
-    "tsunkuGap": {
-      "score": 4,
-      "description": "可愛らしいポップなメロディだが、歌詞は片思いの不安と切なさを歌う。甘い音楽と胸の痛みのコントラスト",
-      "musicalMoodScore": 7
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "通勤",
+      "作業中"
+    ]
+  },
+  {
+    "id": "mm-003",
+    "title": "サマーナイトタウン",
+    "titleReading": "サマーナイトタウン",
+    "releaseDate": "1998-05-27",
+    "releaseType": "single",
+    "memberEra": "1期",
+    "spotifyId": "2qZfmpqudxPF6qqps06NPp",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
     },
-    "moodTags": ["恋してる", "懐かしい気持ち", "落ち着きたい", "泣きたい"],
-    "situations": ["寝る前", "夜ひとりで", "カフェ", "雨の日"]
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 116,
+      "tempo": "mid-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-004",
+    "title": "抱いてHOLD ON ME !",
+    "titleReading": "抱いてHOLD ON ME !",
+    "releaseDate": "1998-09-09",
+    "releaseType": "single",
+    "memberEra": "1期",
+    "spotifyId": "6Zv5Mge2JmlZMTuiV8WGW7",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 125,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
   },
   {
     "id": "mm-005",
     "title": "Memory 青春の光",
-    "titleReading": "メモリー せいしゅんのひかり",
+    "titleReading": "Memory 青春の光",
     "releaseDate": "1999-02-10",
     "releaseType": "single",
     "memberEra": "2期",
-    "spotifyId": "5AnYyl8goUKgZcFXWE3cJN",
+    "spotifyId": "7yYlM8yTIklNXLlJPc5W2u",
     "composer": {
-      "lyricist": "つんく",
-      "composer": "つんく",
-      "arranger": "ダンス☆マン",
-      "isTsunku": true
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
     },
     "musicalProfile": {
-      "key": "A minor",
-      "mode": "minor",
-      "bpm": 130,
-      "tempo": "up-tempo",
-      "genre": ["pop", "eurobeat"],
-      "energy": 7,
-      "instrumentalMood": ["nostalgic", "dramatic", "bright"]
+      "key": "不明",
+      "mode": "major",
+      "bpm": 106,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright"
+      ]
     },
     "lyricalProfile": {
-      "themes": ["youth", "heartbreak", "loneliness"],
-      "emotionalTone": ["melancholic", "bittersweet", "hopeful"],
+      "themes": [
+        "love",
+        "youth",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "泣きたい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-006",
+    "title": "真夏の光線",
+    "titleReading": "真夏の光線",
+    "releaseDate": "1999-05-12",
+    "releaseType": "single",
+    "memberEra": "2期",
+    "spotifyId": "5qHeWtHgBDZHzoOLowmZv8",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 126,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "泣きたい"
+    ],
+    "situations": [
+      "雨の日",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-007",
+    "title": "ふるさと",
+    "titleReading": "ふるさと",
+    "releaseDate": "1999-07-14",
+    "releaseType": "single",
+    "memberEra": "2期",
+    "spotifyId": "1a4zVWrhSr7hqyT0dT66cW",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "minor",
+      "bpm": 80,
+      "tempo": "mid-tempo",
+      "genre": [
+        "ballad"
+      ],
+      "energy": 4,
+      "instrumentalMood": [
+        "dark",
+        "nostalgic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "youth"
+      ],
+      "emotionalTone": [
+        "melancholic",
+        "anxious"
+      ],
+      "lyricMoodScore": 1,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-008",
+    "title": "LOVEマシーン",
+    "titleReading": "LOVEマシーン",
+    "releaseDate": "1999-09-09",
+    "releaseType": "single",
+    "memberEra": "2期",
+    "spotifyId": "1GjXKOwnvRbdQaJRtf2L41",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 129,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
+  },
+  {
+    "id": "mm-009",
+    "title": "恋のダンスサイト",
+    "titleReading": "恋のダンスサイト",
+    "releaseDate": "2000-01-26",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "0sWvDI1dzdAOLe0w6wTdUv",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 141,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
+  },
+  {
+    "id": "mm-010",
+    "title": "ハッピーサマーウェディング",
+    "titleReading": "ハッピーサマーウェディング",
+    "releaseDate": "2000-05-17",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "3B8KmorV0KMhmplB34vt2h",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 127,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "ballad"
+      ],
+      "energy": 3,
+      "instrumentalMood": [
+        "bright",
+        "playful",
+        "soft"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
+  },
+  {
+    "id": "mm-011",
+    "title": "I WISH",
+    "titleReading": "I WISH",
+    "releaseDate": "2000-09-06",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "24ed77a5d1pk3vJ2ANh7Tx",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 90,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 6,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "雨の日",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-012",
+    "title": "恋愛レボリューション21",
+    "titleReading": "恋愛レボリューション21",
+    "releaseDate": "2000-12-13",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "1pgmgpwz6iMYzZKAq2nb6n",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 133,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-013",
+    "title": "ザ☆ピ〜ス！",
+    "titleReading": "ザ☆ピ〜ス！",
+    "releaseDate": "2001-07-25",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "1nt1JPVRDttBbnF7WIXKPD",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 135,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-014",
+    "title": "Mr.Moonlight ～愛のビッグバンド～",
+    "titleReading": "Mr.Moonlight ～愛のビッグバンド～",
+    "releaseDate": "2001-10-31",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "5npQfIWwTOG05k1lrhXf2U",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 183,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "作業中"
+    ]
+  },
+  {
+    "id": "mm-015",
+    "title": "そうだ！We're ALIVE",
+    "titleReading": "そうだ！We're ALIVE",
+    "releaseDate": "2002-02-20",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "4fPtAJEsu8G6SMdrfaVu4Z",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 121,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-016",
+    "title": "Do it! Now",
+    "titleReading": "Do it! Now",
+    "releaseDate": "2002-07-24",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "0FdPpkZlIRG2Ux103uygrS",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 95,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-017",
+    "title": "ここにいるぜぇ！",
+    "titleReading": "ここにいるぜぇ！",
+    "releaseDate": "2002-10-30",
+    "releaseType": "single",
+    "memberEra": "4期",
+    "spotifyId": "3icjqNjSjDkr40bkSBCQdm",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 210,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-018",
+    "title": "HEY ! 未来",
+    "titleReading": "HEY ! 未来",
+    "releaseDate": "2003-01-29",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "30qaCWqR8MmrKcOOhXwSky",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 186,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "強くなりたい",
+      "テンション上げたい"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
+  },
+  {
+    "id": "mm-019",
+    "title": "モーニング娘。のひょっこりひょうたん島",
+    "titleReading": "モーニング娘。のひょっこりひょうたん島",
+    "releaseDate": "2003-02-19",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "79mh5B6R7IOPyLSbh9BElf",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 198,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "踊りたい"
+    ],
+    "situations": [
+      "ワークアウト",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-020",
+    "title": "AS FOR ONE DAY",
+    "titleReading": "AS FOR ONE DAY",
+    "releaseDate": "2003-04-23",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "1UN4izxonq5aIoizhdWxf8",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 109,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet"
+      ],
+      "lyricMoodScore": 6,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "踊りたい"
+    ],
+    "situations": [
+      "雨の日",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-021",
+    "title": "シャボン玉",
+    "titleReading": "シャボン玉",
+    "releaseDate": "2003-07-30",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "0vKFu2Iav2gUAE9r1UpcYH",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 128,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 9,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-022",
+    "title": "Go Girl ～恋のヴィクトリー～",
+    "titleReading": "Go Girl ～恋のヴィクトリー～",
+    "releaseDate": "2003-11-06",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "4rP5tOSewHpIYVzG7fIeGM",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 155,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-023",
+    "title": "愛あらば IT'S ALL RIGHT",
+    "titleReading": "愛あらば IT'S ALL RIGHT",
+    "releaseDate": "2004-01-21",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "5PKwTi0adJq45L3SpuInGN",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 106,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-024",
+    "title": "浪漫 ～MY DEAR BOY～",
+    "titleReading": "浪漫 ～MY DEAR BOY～",
+    "releaseDate": "2004-05-12",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "70FfxCkoM9EHAKtJfaLgXh",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 175,
+      "tempo": "hyper",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "強くなりたい",
+      "テンション上げたい"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
+  },
+  {
+    "id": "mm-025",
+    "title": "女子かしまし物語",
+    "titleReading": "女子かしまし物語",
+    "releaseDate": "2004-07-22",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "4ZIRCHFHPkicAg8QlRWGPR",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 145,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-026",
+    "title": "涙が止まらない放課後",
+    "titleReading": "涙が止まらない放課後",
+    "releaseDate": "2004-11-03",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "1TnoH30704xxGf1pmJ06V5",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 105,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-027",
+    "title": "THE マンパワー！！！",
+    "titleReading": "THE マンパワー！！！",
+    "releaseDate": "2005-01-19",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "6KIkgoAGVaf8ITsYmuMO4e",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 152,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "empowerment",
+        "love"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "元気を出したい",
+      "恋してる",
+      "踊りたい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-028",
+    "title": "大阪 恋の歌",
+    "titleReading": "大阪 恋の歌",
+    "releaseDate": "2005-04-27",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "5foa4Gv0KdeagFQw7Qk602",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 200,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "ballad"
+      ],
+      "energy": 1,
+      "instrumentalMood": [
+        "bright",
+        "soft"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet"
+      ],
+      "lyricMoodScore": 7,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "落ち着きたい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-029",
+    "title": "色っぽい じれったい",
+    "titleReading": "色っぽい じれったい",
+    "releaseDate": "2005-07-27",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "2XQ3Lm6zSHuyPFfWyAtTlc",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 112,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 8,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-030",
+    "title": "直感2～逃がした魚は大きいぞ！～",
+    "titleReading": "直感2～逃がした魚は大きいぞ！～",
+    "releaseDate": "2005-11-09",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "6dmzOyALcxeePhto6sYsY8",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 149,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
+  },
+  {
+    "id": "mm-031",
+    "title": "SEXY BOY ～そよ風に寄り添って～",
+    "titleReading": "SEXY BOY ～そよ風に寄り添って～",
+    "releaseDate": "2006-03-15",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "1xElANEYe53hatqO0JhwuO",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 153,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-032",
+    "title": "Ambitious! 野心的でいいじゃん",
+    "titleReading": "Ambitious! 野心的でいいじゃん",
+    "releaseDate": "2006-06-21",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "0HZ1GnQwJ4GXOlZd94BQ6O",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 160,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-033",
+    "title": "歩いてる",
+    "titleReading": "歩いてる",
+    "releaseDate": "2006-11-08",
+    "releaseType": "single",
+    "memberEra": "6期",
+    "spotifyId": "5XMloC0n83nTn2BGZZunc8",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 107,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-034",
+    "title": "笑顔YESヌード",
+    "titleReading": "笑顔YESヌード",
+    "releaseDate": "2007-02-14",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "4EeuDKxgdvZc0KKjHYWR3x",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 118,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "強くなりたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-035",
+    "title": "悲しみトワイライト",
+    "titleReading": "悲しみトワイライト",
+    "releaseDate": "2007-04-25",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "5X7Zfv37MP0BqMEUYNmdu6",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 140,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-036",
+    "title": "女に 幸あれ",
+    "titleReading": "女に 幸あれ",
+    "releaseDate": "2007-07-25",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "3S8HXsuPztcyqhJn5qjGJ6",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 155,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 8,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-037",
+    "title": "みかん",
+    "titleReading": "みかん",
+    "releaseDate": "2007-11-21",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "7CZkbK8uY9obU0rB4cSjha",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 172,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "通勤",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-038",
+    "title": "リゾナント ブルー",
+    "titleReading": "リゾナント ブルー",
+    "releaseDate": "2008-04-16",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "1bjK7asQtUhJDTmEXRgsJ9",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 120,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "強くなりたい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-039",
+    "title": "ペッパー警部",
+    "titleReading": "ペッパー警部",
+    "releaseDate": "2008-09-24",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "21wrvRLJyG5FCQ7IUXebqE",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 129,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
+  },
+  {
+    "id": "mm-040",
+    "title": "泣いちゃうかも",
+    "titleReading": "泣いちゃうかも",
+    "releaseDate": "2009-02-18",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "3a5xh0ez7v8FYTM2Bb2j5c",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 120,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-041",
+    "title": "3,2,1 BREAKIN'OUT !",
+    "titleReading": "3,2,1 BREAKIN'OUT !",
+    "releaseDate": "2009-05-13",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "2ILOq92XAwQj2j6tlnPNhr",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 147,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-042",
+    "title": "しょうがない 夢追い人",
+    "titleReading": "しょうがない 夢追い人",
+    "releaseDate": "2009-05-13",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "5kB2gFEvDuaIlbKRf1FnkX",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 132,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "youth"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet",
+        "defiant"
+      ],
+      "lyricMoodScore": 7,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-043",
+    "title": "なんちゃって恋愛",
+    "titleReading": "なんちゃって恋愛",
+    "releaseDate": "2009-08-19",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "0e6sw24bKYqQ6n8bieXayi",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 130,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-044",
+    "title": "気まぐれプリンセス",
+    "titleReading": "気まぐれプリンセス",
+    "releaseDate": "2009-10-28",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "1YEhLnOHLDlOb8ETWHR0CH",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 134,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "通勤"
+    ]
+  },
+  {
+    "id": "mm-045",
+    "title": "女が目立ってなぜイケナイ",
+    "titleReading": "女が目立ってなぜイケナイ",
+    "releaseDate": "2010-02-10",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "6f58KDxSscgNqDgIsduRmf",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 129,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-046",
+    "title": "青春コレクション",
+    "titleReading": "青春コレクション",
+    "releaseDate": "2010-06-09",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "6yt7JIXX0Oz4mBNxIaiA41",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 134,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-047",
+    "title": "女と男のララバイゲーム",
+    "titleReading": "女と男のララバイゲーム",
+    "releaseDate": "2010-11-17",
+    "releaseType": "single",
+    "memberEra": "8期",
+    "spotifyId": "1nPWKgzL6ZdCXYYyc7wf73",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 151,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-048",
+    "title": "まじですかスカ！",
+    "titleReading": "まじですかスカ！",
+    "releaseDate": "2011-04-06",
+    "releaseType": "single",
+    "memberEra": "10期",
+    "spotifyId": "1V5v43W6DFtqCVIala5o4s",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 179,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-049",
+    "title": "Only you",
+    "titleReading": "Only you",
+    "releaseDate": "2011-06-15",
+    "releaseType": "single",
+    "memberEra": "10期",
+    "spotifyId": "4czUcKJTDxhcemW1cspEKt",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 142,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "作業中"
+    ]
+  },
+  {
+    "id": "mm-050",
+    "title": "この地球の平和を本気で願ってるんだよ！",
+    "titleReading": "この地球の平和を本気で願ってるんだよ！",
+    "releaseDate": "2011-09-14",
+    "releaseType": "single",
+    "memberEra": "10期",
+    "spotifyId": "2NRhn6wP7JgNWAGH4PFhb6",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 130,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "作業中"
+    ]
+  },
+  {
+    "id": "mm-051",
+    "title": "ピョコピョコ ウルトラ",
+    "titleReading": "ピョコピョコ ウルトラ",
+    "releaseDate": "2012-01-25",
+    "releaseType": "single",
+    "memberEra": "10期",
+    "spotifyId": "1PeMXGqUGnQy9nAeFIOQsY",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 171,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 9,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-052",
+    "title": "恋愛ハンター",
+    "titleReading": "恋愛ハンター",
+    "releaseDate": "2012-04-11",
+    "releaseType": "single",
+    "memberEra": "10期",
+    "spotifyId": "32Qt67XPjoMLGEVTxa5zJ1",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 140,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "踊りたい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-053",
+    "title": "One・Two・Three",
+    "titleReading": "One・Two・Three",
+    "releaseDate": "2012-07-04",
+    "releaseType": "single",
+    "memberEra": "10期",
+    "spotifyId": "5swN4ZkpWCmQVB1bgMAizy",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "minor",
+      "bpm": 129,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop",
+        "rock"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "dark",
+        "nostalgic",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "bittersweet",
+        "anxious",
+        "defiant"
+      ],
       "lyricMoodScore": 4,
       "perspective": "first-person"
     },
-    "tsunkuGap": {
-      "score": 7,
-      "description": "ユーロビート調のアップテンポなサウンドに乗せて、過ぎ去った青春と別れの切なさを歌う。踊れるのに泣ける、つんく♂の真骨頂",
-      "musicalMoodScore": 8
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-054",
+    "title": "ワクテカ Take a chance",
+    "titleReading": "ワクテカ Take a chance",
+    "releaseDate": "2012-10-10",
+    "releaseType": "single",
+    "memberEra": "10期",
+    "spotifyId": "0A67dhQqFy5WYGCy1BWRKR",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
     },
-    "moodTags": ["懐かしい気持ち", "泣きたい", "強くなりたい", "元気を出したい"],
-    "situations": ["夜ひとりで", "通勤", "ワークアウト", "雨の日"]
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "minor",
+      "bpm": 126,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop",
+        "rock"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "dark",
+        "nostalgic",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "melancholic",
+        "anxious",
+        "defiant"
+      ],
+      "lyricMoodScore": 2,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-055",
+    "title": "Help me!!",
+    "titleReading": "Help me!!",
+    "releaseDate": "2013-01-23",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "7LqB3yt07pFbG9t6O3StAn",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 128,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 6,
+      "instrumentalMood": [
+        "bright",
+        "nostalgic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "bittersweet",
+        "anxious"
+      ],
+      "lyricMoodScore": 4,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-056",
+    "title": "ブレインストーミング",
+    "titleReading": "ブレインストーミング",
+    "releaseDate": "2013-04-10",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "0wuhtwQemwXXQqU3oTQPsW",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 123,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-057",
+    "title": "君さえ居れば何も要らない",
+    "titleReading": "君さえ居れば何も要らない",
+    "releaseDate": "2013-04-17",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "6WUUI7cV7MGIIdYaLgeqQQ",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "minor",
+      "bpm": 137,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "rock"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "dark",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-058",
+    "title": "愛の軍団",
+    "titleReading": "愛の軍団",
+    "releaseDate": "2013-08-28",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "14E6hBZKYZO162k2HA16Cw",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 140,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-059",
+    "title": "わがまま 気のまま 愛のジョーク",
+    "titleReading": "わがまま 気のまま 愛のジョーク",
+    "releaseDate": "2013-08-28",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "1te6s2vThHrdWypJidnyx0",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 153,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-060",
+    "title": "What is LOVE?",
+    "titleReading": "What is LOVE?",
+    "releaseDate": "2014-01-29",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "6LPe2qbnILDXDRmtSfCDmO",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 194,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-061",
+    "title": "君の代わりは居やしない",
+    "titleReading": "君の代わりは居やしない",
+    "releaseDate": "2014-01-29",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "4LVjbQkD6a9rUVU2QCafUR",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 138,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "通勤"
+    ]
+  },
+  {
+    "id": "mm-062",
+    "title": "笑顔の君は太陽さ",
+    "titleReading": "笑顔の君は太陽さ",
+    "releaseDate": "2014-01-29",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "4etsPee5STPzW3t0gGC2jJ",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 154,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat"
+      ],
+      "energy": 6,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "作業中"
+    ]
+  },
+  {
+    "id": "mm-063",
+    "title": "Password is 0",
+    "titleReading": "Password is 0",
+    "releaseDate": "2014-04-16",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "7HhSV53UcUMCyd9MKJ1GrU",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 148,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-064",
+    "title": "時空を超え 宇宙を超え",
+    "titleReading": "時空を超え 宇宙を超え",
+    "releaseDate": "2014-04-16",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "6yylU0PuG6xeM7zGlJWgl7",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 109,
+      "tempo": "mid-tempo",
+      "genre": [
+        "ballad"
+      ],
+      "energy": 4,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 8,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-065",
+    "title": "見返り美人",
+    "titleReading": "見返り美人",
+    "releaseDate": "2014-10-15",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "5hRU5DciQSPqdpArFJpo6d",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "minor",
+      "bpm": 70,
+      "tempo": "ballad",
+      "genre": [
+        "pop"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "dark",
+        "nostalgic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "heartbreak",
+        "loneliness",
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "melancholic",
+        "anxious"
+      ],
+      "lyricMoodScore": 1,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "泣きたい",
+      "恋してる",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-066",
+    "title": "シャバダバ ドゥ～",
+    "titleReading": "シャバダバ ドゥ～",
+    "releaseDate": "2014-10-15",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "5vsAnZkZQUiQkymmKqjLkB",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 104,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 6,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-067",
+    "title": "TIKI BUN",
+    "titleReading": "TIKI BUN",
+    "releaseDate": "2014-10-15",
+    "releaseType": "single",
+    "memberEra": "11期",
+    "spotifyId": "4v0YJ7cRiCnGck4RL8mgsS",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 134,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-068",
+    "title": "青春小僧が泣いている",
+    "titleReading": "青春小僧が泣いている",
+    "releaseDate": "2015-04-15",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "1IQX9bqquiKH7rsSoINx5l",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 123,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "youth",
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "懐かしい気持ち",
+      "恋してる",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-069",
+    "title": "夕暮れは雨上がり",
+    "titleReading": "夕暮れは雨上がり",
+    "releaseDate": "2015-04-15",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "09cDXsTxG8MhyumIshvNoQ",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 124,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 8,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "強くなりたい"
+    ],
+    "situations": [
+      "雨の日",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-070",
+    "title": "イマココカラ",
+    "titleReading": "イマココカラ",
+    "releaseDate": "2015-04-15",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "63H7CqpBqLiz7PT5JogS4m",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 123,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-071",
+    "title": "今すぐ飛び込む勇気",
+    "titleReading": "今すぐ飛び込む勇気",
+    "releaseDate": "2015-08-19",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "3LLnDxaQUdI2zQrqNJB8W9",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 129,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 6,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-072",
+    "title": "スカッとMy Heart",
+    "titleReading": "スカッとMy Heart",
+    "releaseDate": "2015-08-19",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "5uabTXSUzRHNSNAhq6z82E",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 116,
+      "tempo": "mid-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-073",
+    "title": "Oh my wish!",
+    "titleReading": "Oh my wish!",
+    "releaseDate": "2015-08-19",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "00hxzmV2VuiLvlMtCAeSpi",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 165,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "通勤"
+    ]
+  },
+  {
+    "id": "mm-074",
+    "title": "One and Only",
+    "titleReading": "One and Only",
+    "releaseDate": "2015-12-29",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "77xHlT9nZYObwUPiATqK1F",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 140,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-075",
+    "title": "冷たい風と片思い",
+    "titleReading": "冷たい風と片思い",
+    "releaseDate": "2015-12-29",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "5wBXBcZo0ZPMmN1XTKcaIF",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 105,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet",
+        "defiant"
+      ],
+      "lyricMoodScore": 6,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-076",
+    "title": "ENDLESS SKY",
+    "titleReading": "ENDLESS SKY",
+    "releaseDate": "2015-12-29",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "7kS6hnUCUYVFv2itaegto4",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "minor",
+      "bpm": 131,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "ballad"
+      ],
+      "energy": 4,
+      "instrumentalMood": [
+        "dark",
+        "nostalgic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "heartbreak",
+        "loneliness",
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "melancholic",
+        "anxious"
+      ],
+      "lyricMoodScore": 1,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "泣きたい",
+      "恋してる",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-077",
+    "title": "泡沫サタデーナイト！",
+    "titleReading": "泡沫サタデーナイト！",
+    "releaseDate": "2016-05-11",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "2zy0VmHB1TTu52UGH62oLr",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 138,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-078",
+    "title": "The Vision",
+    "titleReading": "The Vision",
+    "releaseDate": "2016-05-11",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "2a0agK7ewSDx7zjKB4bEtj",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 108,
+      "tempo": "mid-tempo",
+      "genre": [
+        "ballad"
+      ],
+      "energy": 2,
+      "instrumentalMood": [
+        "bright",
+        "soft"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-079",
+    "title": "Tokyoという片隅",
+    "titleReading": "Tokyoという片隅",
+    "releaseDate": "2016-05-11",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "6aFGWNI3AKvrh3gdjLLVqp",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 138,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-080",
+    "title": "ムキダシで向き合って",
+    "titleReading": "ムキダシで向き合って",
+    "releaseDate": "2016-11-23",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "5ub9kaxltR4RADIgEJCl3c",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 138,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "強くなりたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-081",
+    "title": "そうじゃない",
+    "titleReading": "そうじゃない",
+    "releaseDate": "2016-11-23",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "6lFUXX0pANpZp7Aq4Rw2dN",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 136,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "作業中",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-082",
+    "title": "セクシーキャットの演説",
+    "titleReading": "セクシーキャットの演説",
+    "releaseDate": "2016-11-23",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "7jPLBgoZWVufvi5Decyo97",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 112,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-083",
+    "title": "ジェラシー ジェラシー",
+    "titleReading": "ジェラシー ジェラシー",
+    "releaseDate": "2017-03-08",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "0hBxKMvJohbJNReVfe8frc",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 120,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "ballad"
+      ],
+      "energy": 4,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "寝る前",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-084",
+    "title": "BRAND NEW MORNING",
+    "titleReading": "BRAND NEW MORNING",
+    "releaseDate": "2017-03-08",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "4sl3kv8H0pL4ls6xa1lO1A",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 135,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet",
+        "defiant"
+      ],
+      "lyricMoodScore": 7,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "通勤"
+    ]
+  },
+  {
+    "id": "mm-085",
+    "title": "モーニングみそ汁",
+    "titleReading": "モーニングみそ汁",
+    "releaseDate": "2017-03-08",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "29FeIqfOdkQWrMleGXWMq9",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 128,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "ballad"
+      ],
+      "energy": 1,
+      "instrumentalMood": [
+        "bright",
+        "playful",
+        "soft"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "通勤"
+    ]
+  },
+  {
+    "id": "mm-086",
+    "title": "邪魔しないで Here We Go！",
+    "titleReading": "邪魔しないで Here We Go！",
+    "releaseDate": "2017-10-04",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "4zFP9B9mfM5NoegtIluEBI",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 104,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-087",
+    "title": "若いんだし！",
+    "titleReading": "若いんだし！",
+    "releaseDate": "2017-10-04",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "5SEP2c7b4mFWES2wqXiFLR",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 114,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet"
+      ],
+      "lyricMoodScore": 6,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-088",
+    "title": "弩級のゴーサイン",
+    "titleReading": "弩級のゴーサイン",
+    "releaseDate": "2017-10-04",
+    "releaseType": "single",
+    "memberEra": "12期",
+    "spotifyId": "2Z6FGmv6yrihSJSXWlLxtH",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 194,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "雨の日",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-089",
+    "title": "Are you Happy?",
+    "titleReading": "Are you Happy?",
+    "releaseDate": "2018-06-13",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "6Gi5ntTPxrDQ9s9HbSmd9w",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 135,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-090",
+    "title": "A gonna",
+    "titleReading": "A gonna",
+    "releaseDate": "2018-06-13",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "56X5CByV8HyLCfUg4tFnb1",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 155,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
+  },
+  {
+    "id": "mm-091",
+    "title": "Y字路の途中",
+    "titleReading": "Y字路の途中",
+    "releaseDate": "2018-10-24",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "6pLSvZzBK2Yl0I51U5cdDp",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 120,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "ballad"
+      ],
+      "energy": 3,
+      "instrumentalMood": [
+        "bright",
+        "nostalgic",
+        "playful",
+        "soft"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "melancholic",
+        "anxious"
+      ],
+      "lyricMoodScore": 3,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-092",
+    "title": "自由な国だから",
+    "titleReading": "自由な国だから",
+    "releaseDate": "2018-10-24",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "3RMjbadJAjbcz71hCR1Pci",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 140,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "ワークアウト"
+    ]
+  },
+  {
+    "id": "mm-093",
+    "title": "フラリ銀座",
+    "titleReading": "フラリ銀座",
+    "releaseDate": "2018-10-24",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "7tUulcXCeHQDnJiBo0HTfv",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 140,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "youth"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "懐かしい気持ち"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-094",
+    "title": "人生Blues",
+    "titleReading": "人生Blues",
+    "releaseDate": "2019-06-12",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "2g8Deqt5RMlAvVFzlYXal6",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 132,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-095",
+    "title": "青春Night",
+    "titleReading": "青春Night",
+    "releaseDate": "2019-06-12",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "35BQSYa466U9fYpad6XPSK",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 128,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-096",
+    "title": "I surrender 愛されど愛",
+    "titleReading": "I surrender 愛されど愛",
+    "releaseDate": "2019-06-12",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "1p1BMaDDdOYZ9KcvTSVKHp",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 186,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-097",
+    "title": "KOKORO＆KARADA",
+    "titleReading": "KOKORO＆KARADA",
+    "releaseDate": "2020-01-22",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "0rj1BIXUcuR5ar6xAzmxWp",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "minor",
+      "bpm": 140,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop",
+        "rock"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "dark",
+        "nostalgic",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "melancholic",
+        "anxious",
+        "defiant"
+      ],
+      "lyricMoodScore": 1,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-098",
+    "title": "人間関係No way way",
+    "titleReading": "人間関係No way way",
+    "releaseDate": "2020-01-22",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "3O6rIoMLFlM3XDqkBVjkSe",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 142,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-099",
+    "title": "LOVEペディア",
+    "titleReading": "LOVEペディア",
+    "releaseDate": "2020-01-22",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "0gqFleBQ053a7ObnfCUokk",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 142,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-100",
+    "title": "純情エビデンス",
+    "titleReading": "純情エビデンス",
+    "releaseDate": "2020-12-16",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "2XQ9VgNdzGtS5sHVrqcyvc",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 136,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "作業中"
+    ]
+  },
+  {
+    "id": "mm-101",
+    "title": "ギューされたいだけなのに",
+    "titleReading": "ギューされたいだけなのに",
+    "releaseDate": "2020-12-16",
+    "releaseType": "single",
+    "memberEra": "13期",
+    "spotifyId": "254LohdNC1VdcMayn2jCju",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 125,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-102",
+    "title": "ビートの惑星",
+    "titleReading": "ビートの惑星",
+    "releaseDate": "2021-12-08",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "0W9TjBtTYzHaxTy4oss9J3",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 124,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-103",
+    "title": "よしよししてほしいの",
+    "titleReading": "よしよししてほしいの",
+    "releaseDate": "2021-12-08",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "6skK79WOWJMK4jYtvuplrB",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 118,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-104",
+    "title": "Teenage Solution",
+    "titleReading": "Teenage Solution",
+    "releaseDate": "2021-12-08",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "3dHsk4kmPmIzBctq4S9dOR",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 138,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-105",
+    "title": "大・人生 Never Been Better!",
+    "titleReading": "大・人生 Never Been Better!",
+    "releaseDate": "2022-06-08",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "5h3w0RkqNwhTDoSuekZ5NE",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 120,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 5,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-106",
+    "title": "Chu Chu Chu 僕らの未来",
+    "titleReading": "Chu Chu Chu 僕らの未来",
+    "releaseDate": "2022-06-08",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "20KvHqLzmuinEyH9ayqbH7",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 120,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "通勤"
+    ]
+  },
+  {
+    "id": "mm-107",
+    "title": "Swing Swing Paradise",
+    "titleReading": "Swing Swing Paradise",
+    "releaseDate": "2022-12-21",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "2Er77LxBziyqmyTr1UHPcP",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 90,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-108",
+    "title": "Happy birthday to Me!",
+    "titleReading": "Happy birthday to Me!",
+    "releaseDate": "2022-12-21",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "0eYq1poA5I9cBzroi3dfcY",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 190,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-109",
+    "title": "HEAVY GATE",
+    "titleReading": "HEAVY GATE",
+    "releaseDate": "2023-08-30",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "49NjKvYTLPA8SDdZN7ItaA",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 143,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-110",
+    "title": "Neverending Shine",
+    "titleReading": "Neverending Shine",
+    "releaseDate": "2023-10-25",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "0SN4KQrC4V7aF7BFnHXlJx",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 104,
+      "tempo": "mid-tempo",
+      "genre": [
+        "dance",
+        "ballad"
+      ],
+      "energy": 1,
+      "instrumentalMood": [
+        "bright",
+        "playful",
+        "soft"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "heartbreak",
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "泣きたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-111",
+    "title": "すっごいFEVER！",
+    "titleReading": "すっごいFEVER！",
+    "releaseDate": "2023-10-25",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "0dzMBqta5zQHZERhVlydkC",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 134,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "懐かしい気持ち",
+      "元気を出したい"
+    ],
+    "situations": [
+      "友達と",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-112",
+    "title": "Wake-up Call～目覚めるとき～",
+    "titleReading": "Wake-up Call～目覚めるとき～",
+    "releaseDate": "2023-10-25",
+    "releaseType": "single",
+    "memberEra": "15期",
+    "spotifyId": "1BDCa5oquzXN44KiAL2sBt",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 170,
+      "tempo": "hyper",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "通勤"
+    ]
+  },
+  {
+    "id": "mm-113",
+    "title": "勇敢なダンス",
+    "titleReading": "勇敢なダンス",
+    "releaseDate": "2024-08-14",
+    "releaseType": "single",
+    "memberEra": "17期",
+    "spotifyId": "3SgwTwHfZ0rewzThhRcoT1",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 136,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-114",
+    "title": "なんだかセンチメンタルな時の歌",
+    "titleReading": "なんだかセンチメンタルな時の歌",
+    "releaseDate": "2024-08-14",
+    "releaseType": "single",
+    "memberEra": "17期",
+    "spotifyId": "7MbQrqsKLBZtSlGbCvqsy5",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 160,
+      "tempo": "hyper",
+      "genre": [
+        "eurobeat"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 9,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "寝る前"
+    ]
+  },
+  {
+    "id": "mm-115",
+    "title": "最KIYOU",
+    "titleReading": "最KIYOU",
+    "releaseDate": "2024-08-14",
+    "releaseType": "single",
+    "memberEra": "17期",
+    "spotifyId": "3QJHl5bxKfsyCdSa5ejHTm",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 115,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
+  },
+  {
+    "id": "mm-116",
+    "title": "明るく良い子",
+    "titleReading": "明るく良い子",
+    "releaseDate": "2025-07-02",
+    "releaseType": "single",
+    "memberEra": "17期",
+    "spotifyId": "5AXWIZ0Yz2acjNOWLIuU6i",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 95,
+      "tempo": "mid-tempo",
+      "genre": [
+        "pop"
+      ],
+      "energy": 10,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "泣きたい"
+    ],
+    "situations": [
+      "夜ひとりで",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-117",
+    "title": "気になるその気の歌",
+    "titleReading": "気になるその気の歌",
+    "releaseDate": "2025-07-02",
+    "releaseType": "single",
+    "memberEra": "17期",
+    "spotifyId": "2sZpvL9M9TMJ5wR9jla3ZG",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 144,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "通勤",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-118",
+    "title": "私のラミンタッチオーネ",
+    "titleReading": "私のラミンタッチオーネ",
+    "releaseDate": "2025-12-03",
+    "releaseType": "single",
+    "memberEra": "17期",
+    "spotifyId": "6phxNL8zTbg0YFWxMJxG7h",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 135,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "ballad"
+      ],
+      "energy": 2,
+      "instrumentalMood": [
+        "bright",
+        "playful",
+        "soft"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment",
+        "heartbreak",
+        "loneliness"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "踊りたい",
+      "泣きたい"
+    ],
+    "situations": [
+      "友達と",
+      "雨の日"
+    ]
+  },
+  {
+    "id": "mm-119",
+    "title": "てか HAPPYのHAPPY！",
+    "titleReading": "てか HAPPYのHAPPY！",
+    "releaseDate": "2025-12-03",
+    "releaseType": "single",
+    "memberEra": "17期",
+    "spotifyId": "3fpifR2Dy1busz62gqT0mF",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 176,
+      "tempo": "hyper",
+      "genre": [
+        "dance",
+        "eurobeat",
+        "pop"
+      ],
+      "energy": 9,
+      "instrumentalMood": [
+        "bright",
+        "dramatic",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "joyful",
+        "hopeful",
+        "defiant"
+      ],
+      "lyricMoodScore": 10,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "元気を出したい",
+      "踊りたい"
+    ],
+    "situations": [
+      "友達と",
+      "夜ひとりで"
+    ]
   }
 ]

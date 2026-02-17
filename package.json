@@ -8,7 +8,11 @@
     "start": "next start",
     "lint": "eslint",
     "data:fetch-playlist": "tsx scripts/data/fetch-playlist.ts",
-    "data:fetch-spotify": "ts-node scripts/data/spotify-fetch.ts"
+    "data:fetch-spotify": "ts-node scripts/data/spotify-fetch.ts",
+    "collect:youtube-comments": "ts-node scripts/collect/youtube-comments.ts",
+    "collect:web-search-lyrics": "ts-node scripts/collect/web-search-lyrics.ts",
+    "analyze:estimate-audio-features": "ts-node scripts/analyze/estimate-audio-features.ts",
+    "finalize:merge-songs": "ts-node scripts/finalize/merge-songs.ts"
   },
   "dependencies": {
     "next": "16.1.6",
