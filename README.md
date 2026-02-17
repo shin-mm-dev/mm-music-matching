@@ -37,4 +37,4 @@ npm run check:smoke
 ### 3. 公開URL
 
 - 通常: `https://<GitHubユーザー名>.github.io/<リポジトリ名>/`
-- 例: `https://shin-mm-dev.github.io/musume-mood/`
+- 本番: `https://shin-mm-dev.github.io/mm-music-matching/`
