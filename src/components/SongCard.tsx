@@ -14,6 +14,11 @@ export function SongCard({ scoredSong, rank }: SongCardProps) {
   const spotifyEmbedUrl = song.spotifyId
     ? `https://open.spotify.com/embed/track/${song.spotifyId}?utm_source=generator`
     : null
+  const credits = [
+    { label: "作詞", value: song.composer.lyricist },
+    { label: "作曲", value: song.composer.composer },
+    { label: "編曲", value: song.composer.arranger },
+  ].filter((credit) => credit.value && credit.value !== "不明")
 
   return (
     <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 transition-all duration-200 hover:shadow-md">
@@ -41,6 +46,20 @@ export function SongCard({ scoredSong, rank }: SongCardProps) {
               {reason}
             </span>
           ))}
+        </div>
+      )}
+
+      {credits.length > 0 && (
+        <div className="mt-3 rounded-xl bg-gray-50 px-3 py-2.5">
+          <p className="text-xs font-semibold text-gray-500">クレジット</p>
+          <div className="mt-1.5 space-y-1">
+            {credits.map((credit) => (
+              <p key={credit.label} className="text-sm text-gray-700">
+                <span className="font-medium text-gray-500">{credit.label}:</span>{" "}
+                {credit.value}
+              </p>
+            ))}
+          </div>
         </div>
       )}
 
