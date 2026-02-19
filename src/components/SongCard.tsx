@@ -51,8 +51,7 @@ export function SongCard({ scoredSong, rank }: SongCardProps) {
 
       {credits.length > 0 && (
         <div className="mt-3 rounded-xl bg-gray-50 px-3 py-2.5">
-          <p className="text-xs font-semibold text-gray-500">クレジット</p>
-          <div className="mt-1.5 space-y-1">
+          <div className="space-y-1">
             {credits.map((credit) => (
               <p key={credit.label} className="text-sm text-gray-700">
                 <span className="font-medium text-gray-500">{credit.label}:</span>{" "}
