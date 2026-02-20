@@ -38,10 +38,10 @@ scripts/data/lyrics.json
 scripts/data/web-data.json
 
 # private project docs and pipelines (do not publish)
-HANDOFF.md
-PLAN.md
-RELEASE.md
-HISTORY-GUIDE.md
+docs/HANDOFF.md
+docs/PLAN.md
+docs/RELEASE.md
+docs/HISTORY-GUIDE.md
 scripts/
 
 # vercel
