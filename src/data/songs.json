@@ -132,10 +132,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "joyful",
@@ -146,9 +143,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "通勤",
@@ -404,8 +399,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -444,7 +438,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "youth"
       ],
       "emotionalTone": [
@@ -456,7 +449,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
       "懐かしい気持ち"
     ],
     "situations": [
@@ -494,7 +486,8 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "love"
       ],
       "emotionalTone": [
         "joyful",
@@ -506,8 +499,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "恋してる"
     ],
     "situations": [
       "ワークアウト",
@@ -606,8 +598,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -656,8 +646,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -696,8 +684,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -708,8 +695,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "元気を出したい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
@@ -847,8 +833,8 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "love"
+        "love",
+        "empowerment"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -859,7 +845,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
       "恋してる",
       "強くなりたい"
     ],
@@ -909,8 +894,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "テンション上げたい",
-      "強くなりたい",
-      "元気を出したい"
+      "強くなりたい"
     ],
     "situations": [
       "友達と",
@@ -948,7 +932,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "youth"
       ],
       "emotionalTone": [
@@ -960,7 +943,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
       "懐かしい気持ち"
     ],
     "situations": [
@@ -1060,8 +1042,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -1114,8 +1094,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "夜ひとりで",
@@ -1151,10 +1130,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -1165,9 +1141,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -1220,8 +1194,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -1259,8 +1232,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -1271,9 +1243,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
@@ -1464,10 +1434,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -1478,9 +1445,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "元気を出したい",
-      "泣きたい"
+      "恋してる"
     ],
     "situations": [
       "夜ひとりで",
@@ -1530,7 +1495,6 @@
     "tsunkuGap": null,
     "moodTags": [
       "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -1580,8 +1544,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -1618,9 +1580,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -1631,8 +1591,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "友達と",
@@ -1785,9 +1744,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -1830,7 +1787,8 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "empowerment",
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -1844,7 +1802,7 @@
     "moodTags": [
       "泣きたい",
       "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
@@ -1990,9 +1948,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -2041,8 +1997,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "踊りたい",
-      "テンション上げたい"
+      "踊りたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -2233,8 +2188,7 @@
     "lyricalProfile": {
       "themes": [
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -2245,9 +2199,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "泣きたい"
     ],
     "situations": [
       "通勤",
@@ -2295,9 +2247,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -2337,8 +2287,7 @@
       "themes": [
         "youth",
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -2350,8 +2299,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "寝る前",
@@ -2402,8 +2350,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "カラオケ",
@@ -2551,8 +2498,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "踊りたい",
+      "テンション上げたい"
     ],
     "situations": [
       "作業中",
@@ -2588,8 +2535,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -2600,8 +2546,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "通勤",
@@ -2642,7 +2587,8 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "empowerment",
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -2655,7 +2601,7 @@
     "moodTags": [
       "泣きたい",
       "踊りたい",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
@@ -2703,9 +2649,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -2796,8 +2740,7 @@
     "lyricalProfile": {
       "themes": [
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "melancholic",
@@ -2808,9 +2751,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "泣きたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -2861,7 +2802,7 @@
     "moodTags": [
       "元気を出したい",
       "懐かしい気持ち",
-      "テンション上げたい"
+      "踊りたい"
     ],
     "situations": [
       "ワークアウト",
@@ -2901,7 +2842,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -2913,8 +2854,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
@@ -2964,8 +2904,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -3054,8 +2993,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -3066,8 +3004,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -3105,9 +3042,9 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "heartbreak",
-        "loneliness"
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -3118,9 +3055,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
       "泣きたい",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -3173,8 +3109,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -3227,8 +3162,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "踊りたい",
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -3367,10 +3302,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "joyful",
@@ -3381,9 +3313,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -3431,8 +3361,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -3589,7 +3517,7 @@
     "moodTags": [
       "元気を出したい",
       "泣きたい",
-      "テンション上げたい"
+      "踊りたい"
     ],
     "situations": [
       "カラオケ",
@@ -3640,8 +3568,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "雨の日",
@@ -3690,8 +3617,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "踊りたい",
-      "テンション上げたい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -3790,8 +3716,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "踊りたい",
-      "テンション上げたい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -3995,7 +3920,6 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "踊りたい",
       "強くなりたい"
     ],
     "situations": [
@@ -4033,7 +3957,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "youth"
       ],
       "emotionalTone": [
@@ -4045,9 +3968,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "懐かしい気持ち",
-      "元気を出したい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -4084,8 +4005,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -4096,9 +4016,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -4146,9 +4064,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
       "踊りたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "作業中",
@@ -4186,8 +4103,9 @@
     "lyricalProfile": {
       "themes": [
         "youth",
-        "humor",
-        "empowerment"
+        "heartbreak",
+        "loneliness",
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -4199,8 +4117,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "何も考えたくない",
-      "元気を出したい"
+      "泣きたい",
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -4239,7 +4157,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "youth"
       ],
       "emotionalTone": [
@@ -4251,7 +4168,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
       "懐かしい気持ち"
     ],
     "situations": [
@@ -4300,8 +4216,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -4350,9 +4264,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -4389,9 +4301,7 @@
     "lyricalProfile": {
       "themes": [
         "heartbreak",
-        "loneliness",
-        "empowerment",
-        "youth"
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -4402,9 +4312,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "元気を出したい",
-      "懐かしい気持ち"
+      "泣きたい"
     ],
     "situations": [
       "寝る前",
@@ -4440,10 +4348,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -4454,9 +4359,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "元気を出したい",
-      "泣きたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -4492,8 +4395,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -4504,8 +4406,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "雨の日",
@@ -4556,8 +4457,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "踊りたい",
+      "テンション上げたい"
     ],
     "situations": [
       "雨の日",
@@ -4596,8 +4497,7 @@
     "lyricalProfile": {
       "themes": [
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -4608,9 +4508,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "泣きたい"
     ],
     "situations": [
       "友達と",
@@ -4712,8 +4610,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "カラオケ",
@@ -4761,8 +4658,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -4799,8 +4695,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -4811,9 +4706,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -4955,7 +4848,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -4967,8 +4860,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -5058,7 +4950,7 @@
         "heartbreak",
         "loneliness",
         "humor",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -5071,7 +4963,7 @@
     "moodTags": [
       "泣きたい",
       "何も考えたくない",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "雨の日",
@@ -5119,8 +5011,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -5157,8 +5048,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -5169,9 +5059,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "恋してる"
     ],
     "situations": [
       "寝る前",
@@ -5320,9 +5208,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -5370,8 +5256,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -5425,8 +5309,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "踊りたい",
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -5464,8 +5348,7 @@
       "themes": [
         "empowerment",
         "heartbreak",
-        "loneliness",
-        "youth"
+        "loneliness"
       ],
       "emotionalTone": [
         "joyful",
@@ -5477,8 +5360,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "泣きたい"
     ],
     "situations": [
       "友達と",
@@ -5731,7 +5613,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "テンション上げたい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -5820,10 +5702,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -5834,8 +5713,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "元気を出したい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
@@ -5871,7 +5749,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "heartbreak",
         "loneliness",
         "youth"
@@ -5885,7 +5762,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
       "泣きたい",
       "懐かしい気持ち"
     ],
@@ -5925,8 +5801,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "humor",
-        "youth"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -5938,8 +5813,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "何も考えたくない",
-      "懐かしい気持ち"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -6093,8 +5967,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "踊りたい",
+      "テンション上げたい"
     ],
     "situations": [
       "作業中",
@@ -6130,8 +6004,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -6143,8 +6016,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "寝る前",
@@ -6245,8 +6117,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "踊りたい",
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -6298,8 +6170,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "強くなりたい",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -6347,8 +6218,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -6447,8 +6316,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -6547,8 +6414,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -6649,8 +6514,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -6689,8 +6552,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -6701,9 +6563,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "恋してる"
     ],
     "situations": [
       "カラオケ",
@@ -6739,10 +6599,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -6753,9 +6610,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -6791,10 +6646,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -6805,9 +6657,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -6855,8 +6705,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -6897,8 +6745,7 @@
       "themes": [
         "youth",
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "melancholic",
@@ -6910,8 +6757,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -7000,8 +6846,7 @@
       "themes": [
         "youth",
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -7013,8 +6858,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "寝る前",
@@ -7050,10 +6894,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -7064,9 +6905,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "通勤",
@@ -7105,7 +6944,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -7116,9 +6955,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -7203,8 +7040,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -7216,8 +7052,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "カラオケ",
@@ -7259,7 +7094,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -7271,8 +7106,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "雨の日",
@@ -7410,8 +7244,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -7423,8 +7256,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "寝る前",
@@ -7478,7 +7310,7 @@
     "moodTags": [
       "懐かしい気持ち",
       "泣きたい",
-      "テンション上げたい"
+      "踊りたい"
     ],
     "situations": [
       "ワークアウト",
@@ -7680,8 +7512,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "作業中",
@@ -7731,8 +7562,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "懐かしい気持ち",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -7768,8 +7598,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -7780,8 +7609,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -7829,8 +7657,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -7867,10 +7693,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -7881,9 +7704,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "元気を出したい",
-      "泣きたい"
+      "恋してる"
     ],
     "situations": [
       "カラオケ",
@@ -7931,8 +7752,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -7973,8 +7792,7 @@
       "themes": [
         "youth",
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "melancholic",
@@ -7986,8 +7804,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "寝る前",
@@ -8023,10 +7840,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8037,9 +7851,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -8077,7 +7889,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "youth",
         "heartbreak",
         "loneliness"
@@ -8091,7 +7902,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
       "懐かしい気持ち"
     ],
     "situations": [
@@ -8189,9 +7999,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -8228,8 +8036,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8240,9 +8047,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -8290,8 +8095,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -8329,7 +8132,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "humor"
       ],
       "emotionalTone": [
@@ -8341,7 +8143,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
       "落ち着きたい",
       "何も考えたくない"
     ],
@@ -8379,10 +8180,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8393,9 +8191,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "何も考えたくない",
-      "泣きたい",
-      "懐かしい気持ち"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -8446,8 +8242,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
       "踊りたい",
+      "テンション上げたい",
       "元気を出したい"
     ],
     "situations": [
@@ -8484,10 +8280,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8498,9 +8291,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "元気を出したい",
-      "泣きたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -8536,10 +8327,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8550,9 +8338,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -8588,8 +8374,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -8601,8 +8386,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "寝る前",
@@ -8650,8 +8434,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -8700,8 +8482,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -8740,8 +8520,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8752,9 +8531,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
@@ -8793,7 +8570,6 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment",
         "youth"
       ],
       "emotionalTone": [
@@ -8806,7 +8582,6 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "元気を出したい",
       "懐かしい気持ち"
     ],
     "situations": [
@@ -8855,8 +8630,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -8905,8 +8678,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -8943,10 +8714,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8957,9 +8725,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -8996,8 +8762,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -9008,9 +8773,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "恋してる"
     ],
     "situations": [
       "寝る前",
@@ -9058,8 +8821,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -9100,7 +8861,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -9112,8 +8873,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -9214,7 +8974,7 @@
     "moodTags": [
       "元気を出したい",
       "強くなりたい",
-      "テンション上げたい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -9303,8 +9063,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -9315,9 +9074,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "恋してる"
     ],
     "situations": [
       "友達と",
@@ -9365,8 +9122,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -9403,8 +9158,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -9415,8 +9169,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -9520,7 +9273,6 @@
     "tsunkuGap": null,
     "moodTags": [
       "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -9557,10 +9309,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -9571,9 +9320,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -9621,9 +9368,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "通勤",
@@ -9660,8 +9405,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -9672,9 +9416,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "恋してる"
     ],
     "situations": [
       "寝る前",
@@ -9710,10 +9452,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "joyful",
@@ -9724,9 +9463,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "夜ひとりで",
@@ -9774,8 +9511,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -9813,7 +9548,8 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -9825,7 +9561,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "強くなりたい",
-      "テンション上げたい"
+      "何も考えたくない"
     ],
     "situations": [
       "作業中",
@@ -9930,9 +9666,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
       "踊りたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -9969,8 +9704,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "joyful",
@@ -9981,8 +9715,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "何も考えたくない",
-      "踊りたい"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -10033,7 +9766,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -10082,8 +9815,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -10131,8 +9863,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -10273,9 +10003,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "heartbreak",
-        "loneliness"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -10287,8 +10015,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "落ち着きたい",
-      "何も考えたくない",
-      "泣きたい"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -10336,8 +10063,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -10386,8 +10111,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -10436,9 +10159,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
       "踊りたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -10486,8 +10208,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -10537,8 +10257,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -10587,8 +10305,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -10637,8 +10353,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -10678,8 +10392,7 @@
     "lyricalProfile": {
       "themes": [
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "melancholic",
@@ -10690,9 +10403,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "泣きたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -10729,9 +10440,9 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment",
-        "youth"
+        "heartbreak",
+        "loneliness",
+        "humor"
       ],
       "emotionalTone": [
         "melancholic",
@@ -10742,9 +10453,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "何も考えたくない",
-      "元気を出したい",
-      "懐かしい気持ち"
+      "泣きたい",
+      "何も考えたくない"
     ],
     "situations": [
       "夜ひとりで",
@@ -10783,8 +10493,7 @@
     "lyricalProfile": {
       "themes": [
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -10795,9 +10504,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "泣きたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -10895,8 +10602,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -10945,8 +10650,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -10988,7 +10691,7 @@
         "love",
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -11001,7 +10704,7 @@
     "moodTags": [
       "恋してる",
       "泣きたい",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
@@ -11039,9 +10742,9 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "heartbreak",
-        "loneliness"
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -11052,9 +10755,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
       "泣きたい",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -11102,8 +10804,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -11152,8 +10852,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -11190,10 +10888,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -11204,9 +10899,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "夜ひとりで",
@@ -11254,8 +10947,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -11306,8 +10997,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -11355,9 +11045,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "強くなりたい",
-      "テンション上げたい",
-      "踊りたい"
+      "強くなりたい"
     ],
     "situations": [
       "作業中",
@@ -11394,8 +11082,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -11407,8 +11094,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "寝る前",
@@ -11445,9 +11131,7 @@
     "lyricalProfile": {
       "themes": [
         "love",
-        "humor",
-        "heartbreak",
-        "loneliness"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -11459,8 +11143,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "何も考えたくない",
-      "泣きたい"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -11496,10 +11179,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -11510,9 +11190,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -11548,10 +11226,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -11562,9 +11237,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "何も考えたくない",
-      "泣きたい",
-      "懐かしい気持ち"
+      "何も考えたくない"
     ],
     "situations": [
       "友達と",
@@ -11600,8 +11273,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -11613,8 +11285,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "落ち着きたい",
-      "何も考えたくない",
-      "元気を出したい"
+      "何も考えたくない"
     ],
     "situations": [
       "友達と",
@@ -11662,8 +11333,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -11712,8 +11381,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -11753,7 +11420,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -11765,7 +11432,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -11814,8 +11481,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -11863,8 +11529,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -11913,8 +11577,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -11963,8 +11625,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -12013,8 +11673,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -12114,8 +11772,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -12167,8 +11823,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -12216,8 +11871,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -12254,10 +11907,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12268,9 +11918,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "カラオケ",
@@ -12318,8 +11966,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -12368,8 +12014,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -12418,8 +12062,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -12456,10 +12098,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12470,8 +12109,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -12520,8 +12158,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -12559,8 +12195,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12571,9 +12206,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -12609,10 +12242,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12623,9 +12253,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "元気を出したい",
-      "泣きたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "作業中",
@@ -12674,8 +12302,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "強くなりたい",
-      "元気を出したい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -12711,8 +12338,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -12724,8 +12350,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "雨の日",
@@ -12761,10 +12386,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12775,9 +12397,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "雨の日",
@@ -12813,10 +12433,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12827,9 +12444,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "何も考えたくない",
-      "泣きたい",
-      "懐かしい気持ち"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -12878,9 +12493,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "カラオケ",
@@ -12930,8 +12543,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "元気を出したい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -12979,8 +12591,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13018,8 +12628,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -13030,9 +12639,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -13080,8 +12687,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13130,8 +12735,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13169,9 +12772,7 @@
     "lyricalProfile": {
       "themes": [
         "love",
-        "humor",
-        "heartbreak",
-        "loneliness"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -13183,8 +12784,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "何も考えたくない",
-      "泣きたい"
+      "何も考えたくない"
     ],
     "situations": [
       "友達と",
@@ -13221,9 +12821,9 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment",
-        "youth"
+        "heartbreak",
+        "loneliness",
+        "humor"
       ],
       "emotionalTone": [
         "melancholic",
@@ -13234,9 +12834,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "何も考えたくない",
-      "元気を出したい",
-      "懐かしい気持ち"
+      "泣きたい",
+      "何も考えたくない"
     ],
     "situations": [
       "夜ひとりで",
@@ -13284,8 +12883,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13322,8 +12919,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -13335,8 +12931,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "友達と",
@@ -13373,8 +12968,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -13386,8 +12980,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "落ち着きたい",
-      "何も考えたくない",
-      "元気を出したい"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -13425,8 +13018,7 @@
     "lyricalProfile": {
       "themes": [
         "love",
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -13438,8 +13030,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "懐かしい気持ち",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -13489,8 +13080,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "懐かしい気持ち",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "通勤",
@@ -13538,8 +13128,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13588,8 +13176,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13629,8 +13215,7 @@
     "lyricalProfile": {
       "themes": [
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "melancholic",
@@ -13641,9 +13226,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "泣きたい"
     ],
     "situations": [
       "カラオケ",
@@ -13691,8 +13274,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13743,8 +13324,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "懐かしい気持ち",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -13793,8 +13373,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13843,8 +13421,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13881,8 +13457,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -13893,8 +13468,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -13942,8 +13516,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -13981,8 +13553,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -13993,9 +13564,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -14032,8 +13601,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14044,9 +13612,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -14082,10 +13648,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14096,9 +13659,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -14146,8 +13707,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -14248,8 +13807,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -14286,10 +13843,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14300,9 +13854,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -14342,8 +13894,7 @@
       "themes": [
         "love",
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "melancholic",
@@ -14355,8 +13906,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "寝る前",
@@ -14494,10 +14044,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14508,9 +14055,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "何も考えたくない",
-      "泣きたい",
-      "懐かしい気持ち"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -14559,8 +14104,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -14597,9 +14140,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14610,9 +14151,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "落ち着きたい",
-      "元気を出したい",
-      "泣きたい"
+      "落ち着きたい"
     ],
     "situations": [
       "寝る前",
@@ -14660,8 +14199,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -14710,8 +14247,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -14760,9 +14295,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -14847,8 +14380,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14859,9 +14391,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "恋してる"
     ],
     "situations": [
       "雨の日",
@@ -14909,8 +14439,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -15012,8 +14540,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "強くなりたい",
-      "テンション上げたい"
+      "強くなりたい"
     ],
     "situations": [
       "通勤",
@@ -15063,8 +14590,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -15100,10 +14626,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "joyful",
@@ -15114,9 +14637,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "通勤",
@@ -15167,8 +14688,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "ワークアウト",
@@ -15216,8 +14736,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -15254,10 +14772,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "joyful",
@@ -15268,9 +14783,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -15318,8 +14831,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -15369,9 +14880,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "カラオケ",
@@ -15407,8 +14916,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -15419,8 +14927,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "カラオケ",
@@ -15472,7 +14979,7 @@
     "moodTags": [
       "懐かしい気持ち",
       "恋してる",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "雨の日",
@@ -15512,7 +15019,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -15524,8 +15031,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "雨の日",
@@ -15573,8 +15079,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -15611,8 +15115,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -15623,8 +15126,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -15676,9 +15178,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
       "踊りたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -15729,9 +15230,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
       "踊りたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -15779,9 +15279,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "強くなりたい",
-      "テンション上げたい",
-      "踊りたい"
+      "強くなりたい"
     ],
     "situations": [
       "寝る前",
@@ -15829,9 +15327,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -15879,8 +15375,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -15979,8 +15473,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -16030,8 +15522,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "元気を出したい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -16079,8 +15570,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -16129,8 +15618,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -16167,10 +15654,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -16181,9 +15665,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "元気を出したい",
-      "泣きたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "作業中",
@@ -16272,10 +15754,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -16286,9 +15765,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "元気を出したい",
-      "泣きたい"
+      "恋してる"
     ],
     "situations": [
       "寝る前",
@@ -16387,8 +15864,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -16490,8 +15965,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -16540,8 +16013,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -16642,9 +16113,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -16684,8 +16153,7 @@
       "themes": [
         "love",
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "melancholic",
@@ -16697,8 +16165,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "寝る前",
@@ -16734,10 +16201,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -16748,9 +16212,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "元気を出したい",
-      "泣きたい"
+      "恋してる"
     ],
     "situations": [
       "寝る前",
@@ -16834,8 +16296,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -16847,8 +16308,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "寝る前",
@@ -16896,8 +16356,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -16934,10 +16392,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -16948,9 +16403,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "何も考えたくない",
-      "泣きたい",
-      "懐かしい気持ち"
+      "何も考えたくない"
     ],
     "situations": [
       "寝る前",
@@ -16998,8 +16451,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -17048,8 +16499,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -17086,10 +16535,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -17100,9 +16546,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "泣きたい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "夜ひとりで",
@@ -17150,9 +16594,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -17200,8 +16642,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -17250,9 +16690,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -17292,7 +16730,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -17304,8 +16742,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -17341,8 +16778,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -17354,8 +16790,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "友達と",
@@ -17403,8 +16838,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -17441,8 +16874,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -17454,8 +16886,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "寝る前",
@@ -17503,8 +16934,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -17556,8 +16985,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "踊りたい",
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -17594,8 +17023,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -17606,9 +17034,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "恋してる"
     ],
     "situations": [
       "寝る前",
@@ -17697,8 +17123,7 @@
     "lyricalProfile": {
       "themes": [
         "empowerment",
-        "humor",
-        "youth"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -17710,8 +17135,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "何も考えたくない",
-      "懐かしい気持ち"
+      "何も考えたくない"
     ],
     "situations": [
       "友達と",
@@ -17759,8 +17183,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -17798,8 +17220,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -17810,9 +17231,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "恋してる"
     ],
     "situations": [
       "雨の日",
@@ -17852,8 +17271,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -17864,8 +17282,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "元気を出したい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
@@ -17901,8 +17318,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "humor",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -17914,8 +17330,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "何も考えたくない",
-      "落ち着きたい",
-      "元気を出したい"
+      "落ち着きたい"
     ],
     "situations": [
       "寝る前",
@@ -17955,7 +17370,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "heartbreak",
         "loneliness"
       ],
@@ -17968,7 +17382,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
       "泣きたい"
     ],
     "situations": [
@@ -18006,8 +17419,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -18018,9 +17430,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -18058,8 +17468,7 @@
       "themes": [
         "love",
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -18071,8 +17480,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "泣きたい",
-      "元気を出したい"
+      "泣きたい"
     ],
     "situations": [
       "寝る前",
@@ -18209,8 +17617,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -18221,9 +17628,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "通勤",
@@ -18260,8 +17665,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -18272,9 +17676,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -18322,8 +17724,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -18364,7 +17764,7 @@
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -18376,8 +17776,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -18413,8 +17812,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "youth"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -18425,8 +17823,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "懐かしい気持ち"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
@@ -18465,8 +17862,7 @@
     "lyricalProfile": {
       "themes": [
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "melancholic",
@@ -18477,9 +17873,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "泣きたい"
     ],
     "situations": [
       "カラオケ",
@@ -18518,8 +17912,7 @@
       "themes": [
         "love",
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -18531,8 +17924,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "泣きたい",
-      "元気を出したい"
+      "泣きたい"
     ],
     "situations": [
       "友達と",
@@ -18570,7 +17962,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -18581,9 +17973,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
@@ -18633,9 +18023,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -18741,8 +18129,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "踊りたい",
+      "テンション上げたい"
     ],
     "situations": [
       "カラオケ",
@@ -18791,8 +18179,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -18839,8 +18226,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "強くなりたい",
-      "元気を出したい"
+      "強くなりたい"
     ],
     "situations": [
       "カラオケ",
@@ -18877,8 +18263,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -18889,9 +18274,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "作業中",
@@ -18989,8 +18372,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -19028,8 +18409,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -19040,9 +18420,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -19144,9 +18522,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "カラオケ",
@@ -19194,8 +18570,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
       "元気を出したい"
     ],
     "situations": [
@@ -19244,8 +18618,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -19284,8 +18657,7 @@
       "themes": [
         "love",
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -19297,8 +18669,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "泣きたい",
-      "元気を出したい"
+      "泣きたい"
     ],
     "situations": [
       "カラオケ",
@@ -19347,7 +18718,6 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
       "元気を出したい"
     ],
     "situations": [
@@ -19397,8 +18767,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "強くなりたい",
-      "元気を出したい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -19486,8 +18855,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -19498,9 +18866,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "踊りたい",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -19548,9 +18914,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -19586,10 +18950,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "humor",
-        "heartbreak",
-        "loneliness"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -19600,9 +18961,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "何も考えたくない",
-      "泣きたい"
+      "何も考えたくない"
     ],
     "situations": [
       "雨の日",
@@ -19640,7 +18999,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "heartbreak",
         "loneliness"
       ],
@@ -19653,9 +19011,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "泣きたい",
-      "テンション上げたい"
+      "泣きたい"
     ],
     "situations": [
       "寝る前",
@@ -19703,9 +19059,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "踊りたい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "夜ひとりで",
@@ -19753,9 +19107,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -19803,9 +19155,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -19853,9 +19203,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "作業中",
@@ -19891,8 +19239,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -19940,8 +19287,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -19952,9 +19298,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "踊りたい",
-      "元気を出したい"
+      "恋してる"
     ],
     "situations": [
       "寝る前",
@@ -20004,8 +19348,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "踊りたい",
-      "テンション上げたい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -20044,7 +19387,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "humor"
       ],
       "emotionalTone": [
@@ -20056,7 +19398,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
       "何も考えたくない"
     ],
     "situations": [
@@ -20093,9 +19434,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -20106,9 +19445,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "元気を出したい",
-      "泣きたい"
+      "踊りたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -20145,8 +19482,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -20157,9 +19493,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "踊りたい",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -20196,7 +19530,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -20207,8 +19541,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -20256,9 +19589,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -20306,9 +19637,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -20344,7 +19673,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "humor"
       ],
       "emotionalTone": [
@@ -20393,7 +19721,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -20404,7 +19732,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
       "落ち着きたい"
     ],
     "situations": [
@@ -20505,9 +19832,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -20595,8 +19920,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -20643,7 +19967,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "humor"
       ],
       "emotionalTone": [
@@ -20692,9 +20015,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -20705,9 +20026,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "元気を出したい",
-      "泣きたい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -20743,10 +20062,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "humor",
-        "heartbreak",
-        "loneliness"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -20757,9 +20073,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "何も考えたくない",
-      "泣きたい"
+      "何も考えたくない"
     ],
     "situations": [
       "カラオケ",
@@ -20795,9 +20109,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "empowerment"
       ],
       "emotionalTone": [
         "joyful",
@@ -20808,9 +20120,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "元気を出したい",
-      "泣きたい"
+      "元気を出したい"
     ],
     "situations": [
       "カラオケ",
@@ -20858,9 +20168,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -20912,8 +20220,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "ワークアウト",
@@ -20964,8 +20271,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "元気を出したい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "夜ひとりで",
@@ -21002,8 +20308,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21014,9 +20319,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "踊りたい",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
@@ -21053,8 +20356,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21065,9 +20367,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "踊りたい",
-      "テンション上げたい"
+      "恋してる"
     ],
     "situations": [
       "カラオケ",
@@ -21115,9 +20415,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -21153,9 +20451,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21166,9 +20462,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "元気を出したい",
-      "泣きたい"
+      "踊りたい"
     ],
     "situations": [
       "カラオケ",
@@ -21204,8 +20498,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21216,9 +20509,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "懐かしい気持ち",
-      "踊りたい",
-      "元気を出したい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",
@@ -21254,9 +20545,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
-        "heartbreak",
-        "loneliness"
+        "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21267,9 +20556,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "元気を出したい",
-      "泣きたい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -21305,8 +20592,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "youth",
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -21354,7 +20640,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "humor"
       ],
       "emotionalTone": [
@@ -21404,8 +20689,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21453,8 +20737,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21465,9 +20748,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "踊りたい",
-      "テンション上げたい"
+      "恋してる"
     ],
     "situations": [
       "寝る前",
@@ -21515,9 +20796,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -21565,9 +20844,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -21616,8 +20893,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -21654,8 +20930,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "love",
-        "empowerment"
+        "love"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21666,9 +20941,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "恋してる",
-      "踊りたい",
-      "テンション上げたい"
+      "恋してる"
     ],
     "situations": [
       "夜ひとりで",
@@ -21705,8 +20978,7 @@
     "lyricalProfile": {
       "themes": [
         "heartbreak",
-        "loneliness",
-        "empowerment"
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21766,9 +21038,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -21816,9 +21086,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "雨の日",
@@ -21857,7 +21125,6 @@
     "lyricalProfile": {
       "themes": [
         "love",
-        "empowerment",
         "heartbreak",
         "loneliness"
       ],
@@ -21871,7 +21138,6 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "踊りたい",
       "泣きたい"
     ],
     "situations": [
@@ -21921,9 +21187,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "夜ひとりで",
@@ -21971,9 +21235,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "雨の日",
@@ -22023,8 +21285,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "元気を出したい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "寝る前",
@@ -22073,8 +21334,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "テンション上げたい"
     ],
     "situations": [
       "ワークアウト",
@@ -22121,8 +21381,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "友達と",
@@ -22171,8 +21430,7 @@
     "tsunkuGap": null,
     "moodTags": [
       "強くなりたい",
-      "踊りたい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "ワークアウト",
@@ -22220,8 +21478,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
       "元気を出したい"
     ],
     "situations": [
@@ -22259,7 +21515,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "youth",
         "humor"
       ],
@@ -22272,7 +21527,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "元気を出したい",
       "懐かしい気持ち",
       "何も考えたくない"
     ],
@@ -22322,9 +21576,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -22363,7 +21615,6 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment",
         "humor"
       ],
       "emotionalTone": [
@@ -22375,7 +21626,6 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
       "何も考えたくない"
     ],
     "situations": [
@@ -22424,9 +21674,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "踊りたい"
     ],
     "situations": [
       "寝る前",
@@ -22463,7 +21711,7 @@
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -22474,9 +21722,7 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "寝る前",

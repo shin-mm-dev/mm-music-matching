@@ -14,10 +14,15 @@ export function SongCard({ scoredSong, rank }: SongCardProps) {
   const spotifyEmbedUrl = song.spotifyId
     ? `https://open.spotify.com/embed/track/${song.spotifyId}?utm_source=generator`
     : null
+  const arranger = song.composer.arranger
+    .replace(/^\s*編曲\s*[:：]?\s*/, "")
+    .split(/[;；]/)[0]
+    .replace(/^\s*[:：]+\s*/, "")
+    .trim()
   const credits = [
     { label: "作詞", value: song.composer.lyricist },
     { label: "作曲", value: song.composer.composer },
-    { label: "編曲", value: song.composer.arranger },
+    { label: "編曲", value: arranger },
   ].filter((credit) => credit.value && credit.value !== "不明")
 
   return (

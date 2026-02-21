@@ -2,12 +2,15 @@ import type { Song, UserMood, ScoredSong } from "@/types/song"
 
 interface RecommendOptions {
   seed?: number
+  exposureCounts?: Record<string, number>
 }
 
 const MAX_RECOMMENDATIONS = 10
-const MAX_ALBUM_RECOMMENDATIONS = 4
-const ALBUM_CONFIDENCE_PENALTY = 0.7
-const CANDIDATE_POOL_SIZE = 30
+const EXPLORATION_SLOT_COUNT = 1
+const MIN_ALBUM_RECOMMENDATIONS = 3
+const MAX_ALBUM_RECOMMENDATIONS = 5
+const ALBUM_CONFIDENCE_PENALTY = 0.85
+const CANDIDATE_POOL_SIZE = 50
 
 function isBalladLike(song: Song): boolean {
   return (
@@ -143,6 +146,33 @@ function getFallbackScore(song: Song, mood: UserMood): number {
   return score
 }
 
+function getExposureCount(
+  songId: string,
+  exposureCounts?: Record<string, number>,
+): number {
+  if (!exposureCounts) {
+    return 0
+  }
+  const raw = exposureCounts[songId]
+  if (typeof raw !== "number" || !Number.isFinite(raw)) {
+    return 0
+  }
+  return Math.max(0, Math.floor(raw))
+}
+
+function getNoveltyBonus(exposureCount: number): number {
+  if (exposureCount === 0) {
+    return 24
+  }
+  if (exposureCount <= 2) {
+    return 14
+  }
+  if (exposureCount <= 5) {
+    return 7
+  }
+  return 0
+}
+
 function getTieBreaker(songId: string, seed: number): number {
   const input = `${seed}:${songId}`
   let hash = 2166136261
@@ -203,16 +233,63 @@ function weightedRandomSample(
   return [...selected].sort((a, b) => b.score - a.score)
 }
 
-function applyAlbumLimit(
-  items: readonly ScoredSong[],
+function flattenPrioritizedGroups(
+  prioritizedGroups: readonly (readonly ScoredSong[])[],
+): ScoredSong[] {
+  const flattened: ScoredSong[] = []
+  const seenSongIds = new Set<string>()
+
+  for (const items of prioritizedGroups) {
+    for (const item of items) {
+      if (seenSongIds.has(item.song.id)) {
+        continue
+      }
+      flattened.push(item)
+      seenSongIds.add(item.song.id)
+    }
+  }
+
+  return flattened
+}
+
+function applyAlbumMixAndFill(
+  prioritizedGroups: readonly (readonly ScoredSong[])[],
   maxTotal: number,
 ): ScoredSong[] {
+  const candidates = flattenPrioritizedGroups(prioritizedGroups)
+  const availableAlbums = candidates.filter(
+    (item) => item.song.releaseType === "album",
+  ).length
+  const minAlbumTarget = Math.min(
+    MIN_ALBUM_RECOMMENDATIONS,
+    MAX_ALBUM_RECOMMENDATIONS,
+    availableAlbums,
+    maxTotal,
+  )
+
   const results: ScoredSong[] = []
+  const seenSongIds = new Set<string>()
   let albumCount = 0
 
-  for (const item of items) {
-    if (results.length >= maxTotal) {
+  for (const item of candidates) {
+    if (results.length >= maxTotal || albumCount >= minAlbumTarget) {
       break
+    }
+    if (item.song.releaseType !== "album") {
+      continue
+    }
+    results.push(item)
+    seenSongIds.add(item.song.id)
+    albumCount += 1
+  }
+
+  for (const item of candidates) {
+    if (results.length >= maxTotal) {
+      return results
+    }
+
+    if (seenSongIds.has(item.song.id)) {
+      continue
     }
 
     if (
@@ -223,6 +300,7 @@ function applyAlbumLimit(
     }
 
     results.push(item)
+    seenSongIds.add(item.song.id)
 
     if (item.song.releaseType === "album") {
       albumCount += 1
@@ -230,6 +308,81 @@ function applyAlbumLimit(
   }
 
   return results
+}
+
+function enforceExplorationSlot(
+  selected: readonly ScoredSong[],
+  prioritizedCandidates: readonly ScoredSong[],
+  exposureCounts?: Record<string, number>,
+): ScoredSong[] {
+  if (!exposureCounts || EXPLORATION_SLOT_COUNT <= 0) {
+    return [...selected]
+  }
+
+  const selectedUnseenCount = selected.filter(
+    (item) => getExposureCount(item.song.id, exposureCounts) === 0,
+  ).length
+  if (selectedUnseenCount >= EXPLORATION_SLOT_COUNT) {
+    return [...selected]
+  }
+
+  const selectedIds = new Set(selected.map((item) => item.song.id))
+  const albumCount = selected.filter(
+    (item) => item.song.releaseType === "album",
+  ).length
+
+  const explorationCandidate = prioritizedCandidates.find((item) => {
+    if (selectedIds.has(item.song.id)) {
+      return false
+    }
+    if (getExposureCount(item.song.id, exposureCounts) !== 0) {
+      return false
+    }
+    if (item.song.releaseType === "album" && albumCount >= MAX_ALBUM_RECOMMENDATIONS) {
+      return false
+    }
+    return true
+  })
+
+  if (!explorationCandidate) {
+    return [...selected]
+  }
+
+  const replacement = selected
+    .map((item, index) => ({ item, index }))
+    .filter(
+      ({ item }) => getExposureCount(item.song.id, exposureCounts) > 0,
+    )
+    .filter(({ item }) => {
+      const nextAlbumCount =
+        albumCount +
+        (explorationCandidate.song.releaseType === "album" ? 1 : 0) -
+        (item.song.releaseType === "album" ? 1 : 0)
+      return (
+        nextAlbumCount >= MIN_ALBUM_RECOMMENDATIONS &&
+        nextAlbumCount <= MAX_ALBUM_RECOMMENDATIONS
+      )
+    })
+    .sort((a, b) => {
+      if (a.item.score !== b.item.score) {
+        return a.item.score - b.item.score
+      }
+      return a.item.song.id.localeCompare(b.item.song.id)
+    })[0]
+
+  if (!replacement) {
+    return [...selected]
+  }
+
+  const next = [...selected]
+  next[replacement.index] = {
+    ...explorationCandidate,
+    matchReasons: explorationCandidate.matchReasons.includes("発見枠")
+      ? explorationCandidate.matchReasons
+      : [...explorationCandidate.matchReasons, "発見枠"],
+  }
+
+  return [...next].sort((a, b) => b.score - a.score)
 }
 
 function comparePrimaryMatches(a: ScoredSong, b: ScoredSong): number {
@@ -266,43 +419,69 @@ export function recommendSongs(
   options?: RecommendOptions,
 ): ScoredSong[] {
   const seed = options?.seed ?? 0
+  const exposureCounts = options?.exposureCounts
+  const enableDiscoveryAdjustments = exposureCounts !== undefined
   const random = createSeededRandom(seed)
 
   const scored = songs
     .filter((song) => song.spotifyId !== null)
-    .map((song) => ({
-      song,
-      score: applyConfidencePenalty(song, calculateScore(song, mood)),
-      matchReasons: buildMatchReasons(song, mood),
-    }))
+    .map((song) => {
+      const baseScore = calculateScore(song, mood)
+      const noveltyBonus =
+        enableDiscoveryAdjustments && baseScore > 0
+          ? getNoveltyBonus(getExposureCount(song.id, exposureCounts))
+          : 0
+
+      return {
+        song,
+        score: applyConfidencePenalty(song, baseScore) + noveltyBonus,
+        matchReasons: buildMatchReasons(song, mood),
+      }
+    })
 
   const primaryMatches = scored
     .filter((item) => item.score > 0)
     .sort(comparePrimaryMatches)
   const candidatePool = primaryMatches.slice(0, CANDIDATE_POOL_SIZE)
 
-  let selected =
+  const selected =
     candidatePool.length > MAX_RECOMMENDATIONS
       ? weightedRandomSample(candidatePool, MAX_RECOMMENDATIONS, random)
       : [...candidatePool]
 
-  if (selected.length < MAX_RECOMMENDATIONS) {
-    const selectedIds = new Set(selected.map((item) => item.song.id))
-    const fallbackCandidates = scored
-      .filter(
-        (item) => item.score === 0 && !selectedIds.has(item.song.id),
-      )
-      .map((item) => ({
-        ...item,
-        score: getFallbackScore(item.song, mood),
-        matchReasons: buildFallbackReasons(item.song, mood),
-      }))
-      .filter((item) => item.score > 0)
-      .sort((a, b) => compareFallbackMatches(a, b, seed))
+  const selectedIds = new Set(selected.map((item) => item.song.id))
+  const remainingPrimaryMatches = primaryMatches.filter(
+    (item) => !selectedIds.has(item.song.id),
+  )
+  const fallbackCandidates = scored
+    .filter(
+      (item) => item.score === 0 && !selectedIds.has(item.song.id),
+    )
+    .map((item) => ({
+      ...item,
+      score:
+        getFallbackScore(item.song, mood) +
+        (enableDiscoveryAdjustments
+          ? Math.floor(getNoveltyBonus(getExposureCount(item.song.id, exposureCounts)) / 2)
+          : 0),
+      matchReasons: buildFallbackReasons(item.song, mood),
+    }))
+    .filter((item) => item.score > 0)
+    .sort((a, b) => compareFallbackMatches(a, b, seed))
 
-    const remaining = MAX_RECOMMENDATIONS - selected.length
-    selected = [...selected, ...fallbackCandidates.slice(0, remaining)]
-  }
+  const prioritizedCandidates = flattenPrioritizedGroups([
+    selected,
+    remainingPrimaryMatches,
+    fallbackCandidates,
+  ])
+  const mixedResults = applyAlbumMixAndFill(
+    [selected, remainingPrimaryMatches, fallbackCandidates],
+    MAX_RECOMMENDATIONS,
+  )
 
-  return applyAlbumLimit(selected, MAX_RECOMMENDATIONS)
+  return enforceExplorationSlot(
+    mixedResults,
+    prioritizedCandidates,
+    exposureCounts,
+  )
 }

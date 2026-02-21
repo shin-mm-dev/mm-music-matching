@@ -1,22 +1,61 @@
 "use client"
 
 import { useSearchParams, useRouter } from "next/navigation"
-import { Suspense, useState } from "react"
+import { Suspense, useEffect, useMemo, useRef, useState } from "react"
 import { recommendSongs } from "@/lib/recommend"
 import { SongCard } from "@/components/SongCard"
 import songsData from "@/data/songs.json"
 import type { Song, UserMood } from "@/types/song"
 
 const songs = songsData as Song[]
+const EXPOSURE_COUNTS_STORAGE_KEY = "musume-mood-exposure-counts-v1"
+
+function parseExposureCounts(raw: string | null): Record<string, number> {
+  if (!raw) {
+    return {}
+  }
+
+  try {
+    const parsed = JSON.parse(raw) as unknown
+    if (!parsed || typeof parsed !== "object") {
+      return {}
+    }
+
+    const counts: Record<string, number> = {}
+    for (const [songId, value] of Object.entries(parsed as Record<string, unknown>)) {
+      if (typeof value !== "number" || !Number.isFinite(value)) {
+        continue
+      }
+      counts[songId] = Math.max(0, Math.floor(value))
+    }
+    return counts
+  } catch {
+    return {}
+  }
+}
 
 function RecommendResults() {
   const searchParams = useSearchParams()
   const router = useRouter()
   const [shuffleSeed] = useState(() => Math.floor(Math.random() * 0x7fffffff))
+  const [exposureCountsSnapshot] = useState<Record<string, number>>(() => {
+    if (typeof window === "undefined") {
+      return {}
+    }
+    return parseExposureCounts(
+      window.localStorage.getItem(EXPOSURE_COUNTS_STORAGE_KEY),
+    )
+  })
+  const exposureCountsRef = useRef<Record<string, number>>(exposureCountsSnapshot)
+  const recordedResultKeyRef = useRef("")
 
-  const moodTags = searchParams.get("moods")?.split(",").filter(Boolean) ?? []
+  const moodParam = searchParams.get("moods") ?? ""
   const tempoPreference = searchParams.get("tempo") as UserMood["tempoPreference"] | null
   const situation = searchParams.get("situation") ?? undefined
+  const moodTags = useMemo(
+    () => moodParam.split(",").filter(Boolean),
+    [moodParam],
+  )
 
   const mood: UserMood = {
     moodTags,
@@ -24,7 +63,37 @@ function RecommendResults() {
     situation,
   }
 
-  const results = recommendSongs(mood, songs, { seed: shuffleSeed })
+  const results = recommendSongs(mood, songs, {
+    seed: shuffleSeed,
+    exposureCounts: exposureCountsSnapshot,
+  })
+
+  useEffect(() => {
+    if (results.length === 0 || typeof window === "undefined") {
+      return
+    }
+
+    const requestKey = `${shuffleSeed}:${moodParam}:${tempoPreference ?? ""}:${situation ?? ""}`
+    if (recordedResultKeyRef.current === requestKey) {
+      return
+    }
+    recordedResultKeyRef.current = requestKey
+
+    const nextCounts = { ...exposureCountsRef.current }
+    for (const item of results) {
+      nextCounts[item.song.id] = (nextCounts[item.song.id] ?? 0) + 1
+    }
+
+    exposureCountsRef.current = nextCounts
+    try {
+      window.localStorage.setItem(
+        EXPOSURE_COUNTS_STORAGE_KEY,
+        JSON.stringify(nextCounts),
+      )
+    } catch {
+      // Ignore storage write failures and keep recommendations available.
+    }
+  }, [moodParam, results, shuffleSeed, situation, tempoPreference])
 
   if (moodTags.length === 0) {
     return (
