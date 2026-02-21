@@ -40,8 +40,8 @@ function buildMatchReasons(song: Song, mood: UserMood): string[] {
     reasons.push("落ち着いたバラード")
   }
 
-  if (song.releaseType === "album") {
-    reasons.push("アルバム曲")
+  if (song.releaseType === "single") {
+    reasons.push("シングル曲")
   }
 
   return reasons
@@ -67,8 +67,8 @@ function buildFallbackReasons(song: Song, mood: UserMood): string[] {
     reasons.push("こちらもおすすめ")
   }
 
-  if (song.releaseType === "album") {
-    reasons.push("アルバム曲")
+  if (song.releaseType === "single") {
+    reasons.push("シングル曲")
   }
 
   return reasons
