@@ -16,10 +16,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 148,
       "tempo": "ballad",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -2502,37 +2503,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 88,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "humor"
       ],
       "emotionalTone": [
         "joyful",
         "hopeful"
       ],
-      "lyricMoodScore": 9,
+      "lyricMoodScore": 8,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -5041,7 +5042,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -5091,12 +5092,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 6,
+      "energy": 5,
       "instrumentalMood": [
         "dark",
         "nostalgic",
@@ -5125,7 +5126,7 @@
     ],
     "situations": [
       "雨の日",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -6228,19 +6229,19 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 88,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
+        "humor",
         "empowerment"
       ],
       "emotionalTone": [
@@ -6252,8 +6253,8 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
+      "何も考えたくない",
+      "落ち着きたい",
       "元気を出したい"
     ],
     "situations": [
@@ -6278,10 +6279,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 158,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -6382,12 +6384,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -6401,7 +6403,7 @@
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -6411,7 +6413,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -6432,38 +6434,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 74,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "youth",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -6483,12 +6484,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -6513,7 +6514,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "ワークアウト"
     ]
   },
   {
@@ -6533,20 +6534,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 108,
       "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -6557,9 +6560,9 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "雨の日",
@@ -6633,16 +6636,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 94,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "dark",
-        "playful"
+        "dark"
       ]
     },
     "lyricalProfile": {
@@ -6650,7 +6651,7 @@
         "youth",
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -6663,11 +6664,11 @@
     "moodTags": [
       "懐かしい気持ち",
       "泣きたい",
-      "テンション上げたい"
+      "何も考えたくない"
     ],
     "situations": [
       "カラオケ",
-      "通勤"
+      "寝る前"
     ]
   },
   {
@@ -6687,7 +6688,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 144,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -6737,10 +6738,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 152,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -6942,13 +6944,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
         "nostalgic",
@@ -6997,38 +6998,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 72,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "youth",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -7048,12 +7048,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 138,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -7080,7 +7080,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -7101,20 +7101,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 110,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -7125,13 +7127,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "通勤",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -7151,10 +7153,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 146,
       "tempo": "up-tempo",
       "genre": [
         "dance",
+        "eurobeat",
         "rock"
       ],
       "energy": 7,
@@ -7202,21 +7205,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 164,
+      "tempo": "hyper",
       "genre": [
-        "dance"
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "love",
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -7228,8 +7232,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
       "カラオケ",
@@ -7358,34 +7362,33 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 80,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "love",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
       "通勤",
@@ -7462,37 +7465,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 66,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
+        "humor",
         "empowerment"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
+      "何も考えたくない",
+      "落ち着きたい",
       "元気を出したい"
     ],
     "situations": [
       "寝る前",
-      "カラオケ"
+      "作業中"
     ]
   },
   {
@@ -7617,21 +7620,20 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 70,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "youth",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -7643,12 +7645,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -7668,21 +7670,20 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 96,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "youth",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -7695,7 +7696,7 @@
     "moodTags": [
       "懐かしい気持ち",
       "落ち着きたい",
-      "テンション上げたい"
+      "何も考えたくない"
     ],
     "situations": [
       "夜ひとりで",
@@ -7719,10 +7720,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 158,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -7770,12 +7772,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -7801,7 +7803,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -7821,20 +7823,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 168,
+      "tempo": "hyper",
       "genre": [
-        "dance"
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -7845,13 +7849,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "通勤"
     ]
   },
   {
@@ -8023,12 +8027,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "nostalgic",
@@ -8129,17 +8133,16 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 160,
+      "tempo": "hyper",
       "genre": [
-        "dance",
+        "eurobeat",
         "rock"
       ],
       "energy": 7,
       "instrumentalMood": [
         "dark",
-        "nostalgic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
@@ -8164,7 +8167,7 @@
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "雨の日"
     ]
   },
   {
@@ -8184,15 +8187,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 110,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -8210,11 +8212,11 @@
     "moodTags": [
       "テンション上げたい",
       "強くなりたい",
-      "踊りたい"
+      "元気を出したい"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "通勤"
     ]
   },
   {
@@ -8234,12 +8236,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -8263,7 +8265,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -8284,12 +8286,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -8315,7 +8317,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -8335,12 +8337,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -8364,7 +8366,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -8385,24 +8387,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 76,
+      "tempo": "ballad",
       "genre": [
-        "dance",
-        "rock"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
         "dark",
-        "nostalgic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "empowerment",
-        "heartbreak",
-        "loneliness"
+        "humor"
       ],
       "emotionalTone": [
         "melancholic",
@@ -8414,8 +8413,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "泣きたい",
-      "テンション上げたい"
+      "落ち着きたい",
+      "何も考えたくない"
     ],
     "situations": [
       "夜ひとりで",
@@ -8439,20 +8438,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 90,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "humor",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8463,13 +8464,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "何も考えたくない",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -8489,13 +8490,13 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance",
         "pop"
       ],
-      "energy": 9,
+      "energy": 8,
       "instrumentalMood": [
         "bright",
         "dramatic",
@@ -8542,21 +8543,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 100,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "youth",
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8568,12 +8570,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -8593,20 +8595,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 112,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -8617,13 +8621,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -8643,37 +8647,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 72,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
+        "humor",
         "empowerment"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
+      "何も考えたくない",
+      "落ち着きたい",
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -8693,7 +8697,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 140,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -8743,12 +8747,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 130,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -8793,10 +8797,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 148,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -8844,44 +8849,40 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 78,
+      "tempo": "ballad",
       "genre": [
-        "dance",
-        "pop",
         "rock"
       ],
-      "energy": 9,
+      "energy": 7,
       "instrumentalMood": [
         "dark",
-        "nostalgic",
-        "dramatic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "empowerment",
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
-        "anxious",
-        "defiant"
+        "anxious"
       ],
-      "lyricMoodScore": 3,
+      "lyricMoodScore": 2,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
       "元気を出したい",
-      "テンション上げたい"
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "雨の日"
     ]
   },
   {
@@ -8901,12 +8902,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -8920,7 +8921,7 @@
         "joyful",
         "hopeful"
       ],
-      "lyricMoodScore": 9,
+      "lyricMoodScore": 8,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -8930,7 +8931,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -8951,12 +8952,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 115,
+      "tempo": "mid-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -8981,7 +8982,7 @@
     ],
     "situations": [
       "カラオケ",
-      "ワークアウト"
+      "寝る前"
     ]
   },
   {
@@ -9001,20 +9002,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 108,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -9025,13 +9028,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -9051,12 +9054,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 136,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -9071,7 +9074,7 @@
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -9081,7 +9084,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -9205,22 +9208,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 84,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "joyful",
@@ -9232,12 +9234,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -9307,16 +9309,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 72,
+      "tempo": "ballad",
       "genre": [
-        "dance",
         "ballad"
       ],
       "energy": 1,
       "instrumentalMood": [
         "bright",
-        "playful",
         "soft"
       ]
     },
@@ -9361,7 +9361,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 140,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -9462,20 +9462,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 171,
       "tempo": "ballad",
       "genre": [
-        "dance"
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -9486,13 +9488,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "通勤"
     ]
   },
   {
@@ -9512,17 +9514,15 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 98,
+      "tempo": "ballad",
       "genre": [
-        "dance",
         "ballad"
       ],
-      "energy": 2,
+      "energy": 1,
       "instrumentalMood": [
         "dark",
         "nostalgic",
-        "playful",
         "soft"
       ]
     },
@@ -9567,17 +9567,16 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 165,
+      "tempo": "hyper",
       "genre": [
-        "dance",
+        "eurobeat",
         "pop"
       ],
       "energy": 10,
       "instrumentalMood": [
         "bright",
-        "dramatic",
-        "playful"
+        "dramatic"
       ]
     },
     "lyricalProfile": {
@@ -9600,7 +9599,7 @@
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "ワークアウト"
     ]
   },
   {
@@ -9620,20 +9619,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 104,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -9644,13 +9645,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -9670,12 +9671,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -9720,12 +9721,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -9750,7 +9751,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -9771,20 +9772,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 104,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "joyful",
@@ -9795,13 +9798,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "通勤"
     ]
   },
   {
@@ -9821,12 +9824,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 138,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -9871,12 +9874,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 6,
+      "energy": 5,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -9887,10 +9890,10 @@
         "empowerment"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -9901,7 +9904,7 @@
     ],
     "situations": [
       "作業中",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -9921,7 +9924,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance",
@@ -9975,7 +9978,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance",
@@ -10079,7 +10082,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance",
@@ -10181,12 +10184,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -10210,7 +10213,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -10231,12 +10234,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -10262,7 +10265,7 @@
       "懐かしい気持ち"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -10283,15 +10286,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 88,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -10302,10 +10304,10 @@
         "loneliness"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -10315,8 +10317,8 @@
       "泣きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -10336,20 +10338,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 92,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "humor",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -10361,12 +10364,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "落ち着きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "泣きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -10436,12 +10439,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -10465,7 +10468,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -10486,7 +10489,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 144,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -10536,12 +10539,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -10565,7 +10568,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -10586,10 +10589,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 154,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -10636,12 +10640,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -10686,12 +10690,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -10736,12 +10740,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 138,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "nostalgic",
@@ -10789,23 +10793,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 92,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
-        "nostalgic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "heartbreak",
-        "loneliness",
-        "empowerment"
+        "humor",
+        "empowerment",
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -10816,13 +10819,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "元気を出したい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -10842,10 +10845,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 152,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -10894,38 +10898,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 76,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "love",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -10945,12 +10948,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -10975,7 +10978,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "ワークアウト"
     ]
   },
   {
@@ -10995,12 +10998,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 130,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -11045,13 +11048,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
         "nostalgic",
@@ -11100,13 +11102,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
         "nostalgic",
@@ -11133,8 +11134,8 @@
       "テンション上げたい"
     ],
     "situations": [
-      "カラオケ",
-      "雨の日"
+      "寝る前",
+      "カラオケ"
     ]
   },
   {
@@ -11154,12 +11155,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -11183,7 +11184,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -11204,12 +11205,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -11254,20 +11255,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 115,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -11278,13 +11281,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -11304,12 +11307,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -11354,12 +11357,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -11384,7 +11387,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -11405,12 +11408,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 138,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -11424,7 +11427,7 @@
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -11558,37 +11561,39 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 108,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -11608,20 +11613,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 96,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "humor",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -11632,9 +11639,9 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "何も考えたくない",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
@@ -11708,12 +11715,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -11808,7 +11815,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -11860,10 +11867,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 146,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 6,
       "instrumentalMood": [
@@ -11960,12 +11968,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12010,12 +12018,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12060,12 +12068,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12089,7 +12097,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -12110,24 +12118,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 116,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
-        "nostalgic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "heartbreak",
-        "loneliness",
-        "empowerment"
+        "humor",
+        "youth"
       ],
       "emotionalTone": [
         "bittersweet",
@@ -12139,12 +12144,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "落ち着きたい",
-      "泣きたい",
-      "テンション上げたい"
+      "何も考えたくない",
+      "懐かしい気持ち"
     ],
     "situations": [
       "作業中",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -12164,12 +12169,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12193,7 +12198,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -12214,10 +12219,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 156,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -12265,12 +12271,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 134,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12294,7 +12300,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -12315,20 +12321,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 100,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12339,13 +12347,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -12365,12 +12373,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12395,7 +12403,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -12415,12 +12423,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12445,7 +12453,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -12465,12 +12473,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 136,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12494,7 +12502,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "ワークアウト",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -12515,20 +12523,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 160,
+      "tempo": "hyper",
       "genre": [
-        "dance"
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12539,13 +12549,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "通勤"
     ]
   },
   {
@@ -12565,10 +12575,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 148,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -12615,12 +12626,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12645,7 +12656,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -12666,21 +12677,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 108,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "youth",
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12692,12 +12704,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
       "作業中",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -12717,12 +12729,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -12767,37 +12779,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 78,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
+        "humor",
         "empowerment"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
+      "何も考えたくない",
+      "落ち着きたい",
       "元気を出したい"
     ],
     "situations": [
       "雨の日",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -12817,20 +12829,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 115,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -12841,13 +12855,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "雨の日",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -12970,12 +12984,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -13000,7 +13014,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -13021,12 +13035,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -13040,7 +13054,7 @@
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -13050,7 +13064,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -13071,12 +13085,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -13102,7 +13116,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -13274,23 +13288,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 98,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
-        "nostalgic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "heartbreak",
-        "loneliness",
-        "empowerment"
+        "humor",
+        "empowerment",
+        "youth"
       ],
       "emotionalTone": [
         "melancholic",
@@ -13301,9 +13314,9 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "元気を出したい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
@@ -13327,12 +13340,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -13356,7 +13369,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -13377,37 +13390,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 88,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
+        "humor",
         "empowerment"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
+      "何も考えたくない",
+      "落ち着きたい",
       "元気を出したい"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -13478,12 +13491,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -13530,12 +13543,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -13581,12 +13594,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 130,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -13631,12 +13644,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 110,
+      "tempo": "mid-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -13660,7 +13673,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "ワークアウト",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -13681,12 +13694,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "nostalgic",
@@ -13714,7 +13727,7 @@
     ],
     "situations": [
       "カラオケ",
-      "夜ひとりで"
+      "寝る前"
     ]
   },
   {
@@ -13988,12 +14001,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14017,7 +14030,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -14038,12 +14051,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 134,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14068,7 +14081,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -14089,12 +14102,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 130,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14119,7 +14132,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -14140,20 +14153,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 112,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14164,9 +14179,9 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
@@ -14190,12 +14205,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14240,15 +14255,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 94,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -14256,7 +14270,7 @@
         "youth",
         "heartbreak",
         "loneliness",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14269,7 +14283,7 @@
     "moodTags": [
       "懐かしい気持ち",
       "泣きたい",
-      "踊りたい"
+      "何も考えたくない"
     ],
     "situations": [
       "通勤",
@@ -14293,12 +14307,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14343,20 +14357,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 104,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14367,13 +14383,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -14393,12 +14409,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "nostalgic",
@@ -14426,8 +14442,8 @@
       "テンション上げたい"
     ],
     "situations": [
-      "カラオケ",
-      "雨の日"
+      "寝る前",
+      "カラオケ"
     ]
   },
   {
@@ -14552,20 +14568,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 94,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "humor",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14576,13 +14594,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "何も考えたくない",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -14653,20 +14671,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 104,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -14678,12 +14697,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "落ち着きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -14703,12 +14722,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14732,7 +14751,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -14753,12 +14772,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14782,7 +14801,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -14803,12 +14822,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14832,7 +14851,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -14853,12 +14872,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "ballad",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14872,7 +14891,7 @@
         "joyful",
         "hopeful"
       ],
-      "lyricMoodScore": 9,
+      "lyricMoodScore": 8,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -14903,12 +14922,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -14954,12 +14973,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15056,12 +15075,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15106,12 +15125,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15136,7 +15155,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -15157,20 +15176,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 115,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "joyful",
@@ -15181,13 +15202,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "通勤",
+      "友達と"
     ]
   },
   {
@@ -15207,12 +15228,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 138,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15238,7 +15259,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -15259,12 +15280,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15309,20 +15330,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 92,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "joyful",
@@ -15333,13 +15356,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "通勤"
     ]
   },
   {
@@ -15359,12 +15382,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15512,12 +15535,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 136,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15564,13 +15587,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
         "nostalgic",
@@ -15618,12 +15640,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15827,12 +15849,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15856,7 +15878,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -15877,12 +15899,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15906,7 +15928,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -15927,12 +15949,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -15956,7 +15978,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -15977,38 +15999,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 76,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "youth",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -16028,7 +16049,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 144,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -16078,12 +16099,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -16097,7 +16118,7 @@
         "joyful",
         "hopeful"
       ],
-      "lyricMoodScore": 9,
+      "lyricMoodScore": 8,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -16107,7 +16128,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -16228,21 +16249,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 112,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "youth",
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -16254,12 +16276,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
       "作業中",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -16279,12 +16301,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -16311,7 +16333,7 @@
       "恋してる"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -16332,21 +16354,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 108,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "love",
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -16358,12 +16381,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -16434,12 +16457,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -16463,7 +16486,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -16534,12 +16557,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 138,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -16563,7 +16586,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -16584,12 +16607,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -16634,13 +16657,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "ballad",
       "genre": [
-        "dance",
-        "rock"
+        "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
         "nostalgic",
@@ -16688,7 +16710,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 140,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -16738,12 +16760,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "nostalgic",
@@ -16771,8 +16793,8 @@
       "テンション上げたい"
     ],
     "situations": [
-      "カラオケ",
-      "雨の日"
+      "寝る前",
+      "カラオケ"
     ]
   },
   {
@@ -16792,21 +16814,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 110,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "love",
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -16818,12 +16841,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "テンション上げたい",
-      "踊りたい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -16893,37 +16916,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 72,
       "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
+        "humor",
         "empowerment"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
+      "何も考えたくない",
+      "落ち着きたい",
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -17095,12 +17118,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -17124,7 +17147,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -17145,20 +17168,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 118,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -17169,13 +17194,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -17195,12 +17220,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -17224,7 +17249,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -17245,12 +17270,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -17295,12 +17320,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -17324,7 +17349,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -17345,13 +17370,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
         "nostalgic",
@@ -17379,7 +17403,7 @@
     ],
     "situations": [
       "カラオケ",
-      "夜ひとりで"
+      "寝る前"
     ]
   },
   {
@@ -17499,37 +17523,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 82,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
+        "humor",
         "empowerment"
       ],
       "emotionalTone": [
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
+      "何も考えたくない",
+      "落ち着きたい",
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -17549,12 +17573,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -17578,7 +17602,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -17599,7 +17623,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -17630,7 +17654,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -17651,12 +17675,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 110,
+      "tempo": "mid-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -17681,7 +17705,7 @@
       "踊りたい"
     ],
     "situations": [
-      "ワークアウト",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -17754,20 +17778,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 90,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "humor",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -17779,12 +17804,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -17804,12 +17829,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -17833,7 +17858,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "ワークアウト",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -17854,12 +17879,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 130,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -17905,23 +17930,23 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 160,
+      "tempo": "hyper",
       "genre": [
-        "dance",
+        "eurobeat",
         "rock"
       ],
       "energy": 7,
       "instrumentalMood": [
         "dark",
-        "nostalgic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "heartbreak",
         "loneliness",
+        "youth",
         "empowerment"
       ],
       "emotionalTone": [
@@ -17934,8 +17959,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "泣きたい",
-      "テンション上げたい",
-      "踊りたい"
+      "懐かしい気持ち",
+      "元気を出したい"
     ],
     "situations": [
       "夜ひとりで",
@@ -17959,37 +17984,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 76,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
+        "humor",
         "empowerment"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
+      "何も考えたくない",
+      "落ち着きたい",
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -18064,12 +18089,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -18095,7 +18120,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -18115,15 +18140,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 108,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -18144,11 +18168,11 @@
     "moodTags": [
       "恋してる",
       "泣きたい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -18221,25 +18245,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 72,
+      "tempo": "ballad",
       "genre": [
-        "dance",
-        "rock"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
         "dark",
-        "nostalgic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "love",
-        "heartbreak",
-        "loneliness",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
         "melancholic",
@@ -18251,12 +18271,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
-      "泣きたい",
-      "テンション上げたい"
+      "落ち着きたい",
+      "何も考えたくない"
     ],
     "situations": [
       "カラオケ",
-      "夜ひとりで"
+      "寝る前"
     ]
   },
   {
@@ -18276,12 +18296,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -18378,12 +18398,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -18407,7 +18427,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -18428,13 +18448,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
         "nostalgic",
@@ -18461,8 +18480,8 @@
       "踊りたい"
     ],
     "situations": [
-      "カラオケ",
-      "雨の日"
+      "寝る前",
+      "カラオケ"
     ]
   },
   {
@@ -18482,20 +18501,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 168,
+      "tempo": "hyper",
       "genre": [
-        "dance"
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness",
+        "youth"
       ],
       "emotionalTone": [
         "hopeful",
@@ -18506,13 +18527,13 @@
     },
     "tsunkuGap": null,
     "moodTags": [
-      "テンション上げたい",
-      "踊りたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい",
+      "懐かしい気持ち"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "通勤"
     ]
   },
   {
@@ -18532,12 +18553,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "nostalgic",
@@ -18565,7 +18586,7 @@
     ],
     "situations": [
       "カラオケ",
-      "夜ひとりで"
+      "寝る前"
     ]
   },
   {
@@ -18585,16 +18606,15 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 114,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
-        "nostalgic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
@@ -18615,11 +18635,11 @@
     "moodTags": [
       "恋してる",
       "泣きたい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -18742,12 +18762,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 130,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -18950,12 +18970,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19001,38 +19021,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 84,
       "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "youth",
-        "empowerment"
+        "humor"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
-      "テンション上げたい",
-      "踊りたい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -19052,12 +19071,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 130,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19081,7 +19100,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -19102,12 +19121,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19132,7 +19151,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -19153,7 +19172,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance",
@@ -19206,10 +19225,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 156,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -19256,12 +19276,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 134,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19285,7 +19305,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -19306,12 +19326,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19335,7 +19355,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -19409,12 +19429,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19439,7 +19459,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "ワークアウト"
     ]
   },
   {
@@ -19459,12 +19479,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19488,7 +19508,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -19560,12 +19580,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19590,7 +19610,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -19661,20 +19681,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 96,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "humor",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -19686,12 +19708,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "何も考えたくない",
+      "泣きたい"
     ],
     "situations": [
       "雨の日",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -19711,12 +19733,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "nostalgic",
@@ -19743,8 +19765,8 @@
       "テンション上げたい"
     ],
     "situations": [
-      "カラオケ",
-      "雨の日"
+      "寝る前",
+      "カラオケ"
     ]
   },
   {
@@ -19764,12 +19786,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19814,12 +19836,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19864,12 +19886,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19893,7 +19915,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -19914,12 +19936,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -19933,7 +19955,7 @@
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -19964,15 +19986,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 86,
       "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -19984,18 +20005,18 @@
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "恋してる",
       "踊りたい",
-      "テンション上げたい"
+      "落ち着きたい"
     ],
     "situations": [
       "通勤",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -20015,15 +20036,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 104,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -20042,11 +20062,11 @@
     "moodTags": [
       "恋してる",
       "踊りたい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -20066,7 +20086,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 140,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -20170,20 +20190,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 105,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -20195,12 +20216,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -20220,12 +20241,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -20250,7 +20271,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -20271,12 +20292,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -20300,7 +20321,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -20321,62 +20342,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
-      "instrumentalMood": [
-        "bright",
-        "playful"
-      ]
-    },
-    "lyricalProfile": {
-      "themes": [
-        "empowerment"
-      ],
-      "emotionalTone": [
-        "hopeful",
-        "bittersweet"
-      ],
-      "lyricMoodScore": 7,
-      "perspective": "first-person"
-    },
-    "tsunkuGap": null,
-    "moodTags": [
-      "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
-    ],
-    "situations": [
-      "友達と",
-      "カラオケ"
-    ]
-  },
-  {
-    "id": "mm-398",
-    "title": "シャバダバ ドゥ~/道重さゆみ",
-    "titleReading": "シャバダバ ドゥ~/道重さゆみ",
-    "releaseDate": "2014-10-15",
-    "releaseType": "album",
-    "memberEra": "11期",
-    "spotifyId": "5vsAnZkZQUiQkymmKqjLkB",
-    "composer": {
-      "lyricist": "つんく",
-      "composer": "つんく",
-      "arranger": "田中直",
-      "isTsunku": true
-    },
-    "musicalProfile": {
-      "key": "不明",
-      "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
-      "genre": [
-        "dance"
-      ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -20400,7 +20371,57 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
+      "カラオケ"
+    ]
+  },
+  {
+    "id": "mm-398",
+    "title": "シャバダバ ドゥ~/道重さゆみ",
+    "titleReading": "シャバダバ ドゥ~/道重さゆみ",
+    "releaseDate": "2014-10-15",
+    "releaseType": "album",
+    "memberEra": "11期",
+    "spotifyId": "5vsAnZkZQUiQkymmKqjLkB",
+    "composer": {
+      "lyricist": "つんく",
+      "composer": "つんく",
+      "arranger": "田中直",
+      "isTsunku": true
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 138,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance"
+      ],
+      "energy": 6,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet"
+      ],
+      "lyricMoodScore": 6,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "踊りたい",
+      "テンション上げたい",
+      "元気を出したい"
+    ],
+    "situations": [
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -20421,33 +20442,33 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 82,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "humor"
       ],
       "emotionalTone": [
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
       "通勤",
@@ -20471,15 +20492,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 86,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -20487,21 +20507,21 @@
         "empowerment"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "元気を出したい",
       "踊りたい",
-      "テンション上げたい"
+      "落ち着きたい"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -20573,12 +20593,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -20602,7 +20622,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -20623,12 +20643,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -20653,7 +20673,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -20673,12 +20693,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "ballad",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -20703,7 +20723,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -20774,20 +20794,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 118,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -20799,12 +20820,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -20824,20 +20845,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 92,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "humor",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -20849,12 +20872,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "何も考えたくない",
+      "泣きたい"
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -20874,20 +20897,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 98,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "joyful",
@@ -20899,12 +20923,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "通勤"
     ]
   },
   {
@@ -20924,7 +20948,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 144,
       "tempo": "up-tempo",
       "genre": [
         "dance"
@@ -20974,7 +20998,7 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance",
@@ -21027,12 +21051,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 130,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21079,12 +21103,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21130,12 +21154,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 120,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21161,7 +21185,7 @@
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -21231,20 +21255,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 114,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21256,12 +21281,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
       "カラオケ",
-      "友達と"
+      "寝る前"
     ]
   },
   {
@@ -21281,15 +21306,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 108,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -21308,11 +21332,11 @@
     "moodTags": [
       "懐かしい気持ち",
       "踊りたい",
-      "テンション上げたい"
+      "元気を出したい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "友達と"
     ]
   },
   {
@@ -21332,20 +21356,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 114,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -21357,8 +21382,8 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
       "友達と",
@@ -21382,15 +21407,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 80,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -21399,21 +21423,21 @@
         "empowerment"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "懐かしい気持ち",
       "踊りたい",
-      "テンション上げたい"
+      "落ち着きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -21433,37 +21457,37 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 74,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "humor"
       ],
       "emotionalTone": [
-        "hopeful",
-        "bittersweet"
+        "bittersweet",
+        "anxious"
       ],
-      "lyricMoodScore": 6,
+      "lyricMoodScore": 5,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "何も考えたくない",
+      "落ち着きたい"
     ],
     "situations": [
-      "友達と",
-      "カラオケ"
+      "寝る前",
+      "作業中"
     ]
   },
   {
@@ -21483,12 +21507,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "ballad",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21513,7 +21537,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -21534,12 +21558,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21564,7 +21588,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -21585,12 +21609,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 126,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21614,7 +21638,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "ワークアウト",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -21635,12 +21659,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 136,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21664,7 +21688,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "ワークアウト",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -21735,12 +21759,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 102,
+      "tempo": "mid-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21786,15 +21810,14 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 84,
+      "tempo": "ballad",
       "genre": [
-        "dance"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 5,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
@@ -21814,11 +21837,11 @@
     "moodTags": [
       "泣きたい",
       "踊りたい",
-      "テンション上げたい"
+      "落ち着きたい"
     ],
     "situations": [
       "夜ひとりで",
-      "カラオケ"
+      "寝る前"
     ]
   },
   {
@@ -21838,12 +21861,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 135,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21888,12 +21911,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 132,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -21938,13 +21961,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
         "nostalgic",
@@ -21972,8 +21994,8 @@
       "泣きたい"
     ],
     "situations": [
-      "カラオケ",
-      "雨の日"
+      "寝る前",
+      "カラオケ"
     ]
   },
   {
@@ -21993,10 +22015,11 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 148,
       "tempo": "up-tempo",
       "genre": [
-        "dance"
+        "dance",
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
@@ -22043,12 +22066,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 130,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -22093,12 +22116,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 122,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -22123,7 +22146,7 @@
       "踊りたい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -22194,20 +22217,21 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 162,
+      "tempo": "hyper",
       "genre": [
-        "dance"
+        "eurobeat"
       ],
       "energy": 7,
       "instrumentalMood": [
-        "bright",
-        "playful"
+        "bright"
       ]
     },
     "lyricalProfile": {
       "themes": [
-        "empowerment"
+        "empowerment",
+        "heartbreak",
+        "loneliness"
       ],
       "emotionalTone": [
         "hopeful",
@@ -22219,12 +22243,12 @@
     "tsunkuGap": null,
     "moodTags": [
       "踊りたい",
-      "テンション上げたい",
-      "元気を出したい"
+      "元気を出したい",
+      "泣きたい"
     ],
     "situations": [
       "友達と",
-      "カラオケ"
+      "通勤"
     ]
   },
   {
@@ -22244,12 +22268,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 136,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -22273,7 +22297,7 @@
       "テンション上げたい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -22294,12 +22318,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -22323,7 +22347,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "ワークアウト",
       "カラオケ"
     ]
   },
@@ -22344,23 +22368,22 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
-      "tempo": "up-tempo",
+      "bpm": 105,
+      "tempo": "mid-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "pop"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
-        "nostalgic",
-        "playful"
+        "nostalgic"
       ]
     },
     "lyricalProfile": {
       "themes": [
         "empowerment",
-        "youth"
+        "youth",
+        "humor"
       ],
       "emotionalTone": [
         "melancholic",
@@ -22373,7 +22396,7 @@
     "moodTags": [
       "元気を出したい",
       "懐かしい気持ち",
-      "踊りたい"
+      "何も考えたくない"
     ],
     "situations": [
       "夜ひとりで",
@@ -22397,12 +22420,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 128,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -22426,7 +22449,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -22500,12 +22523,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "major",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
         "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "bright",
         "playful"
@@ -22519,7 +22542,7 @@
         "hopeful",
         "bittersweet"
       ],
-      "lyricMoodScore": 7,
+      "lyricMoodScore": 6,
       "perspective": "first-person"
     },
     "tsunkuGap": null,
@@ -22529,7 +22552,7 @@
       "元気を出したい"
     ],
     "situations": [
-      "友達と",
+      "寝る前",
       "カラオケ"
     ]
   },
@@ -22550,13 +22573,12 @@
     "musicalProfile": {
       "key": "不明",
       "mode": "minor",
-      "bpm": 142,
+      "bpm": 124,
       "tempo": "up-tempo",
       "genre": [
-        "dance",
-        "rock"
+        "dance"
       ],
-      "energy": 7,
+      "energy": 6,
       "instrumentalMood": [
         "dark",
         "playful"
@@ -22580,8 +22602,8 @@
       "元気を出したい"
     ],
     "situations": [
-      "カラオケ",
-      "作業中"
+      "寝る前",
+      "カラオケ"
     ]
   }
 ]
