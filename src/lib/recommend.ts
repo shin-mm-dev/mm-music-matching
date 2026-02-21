@@ -4,6 +4,10 @@ interface RecommendOptions {
   seed?: number
 }
 
+const MAX_RECOMMENDATIONS = 10
+const MAX_ALBUM_RECOMMENDATIONS = 4
+const ALBUM_CONFIDENCE_PENALTY = 0.7
+
 function isBalladLike(song: Song): boolean {
   return (
     song.musicalProfile.tempo === "ballad" ||
@@ -33,6 +37,10 @@ function buildMatchReasons(song: Song, mood: UserMood): string[] {
     isBalladLike(song)
   ) {
     reasons.push("落ち着いたバラード")
+  }
+
+  if (song.releaseType === "album") {
+    reasons.push("アルバム曲")
   }
 
   return reasons
@@ -75,6 +83,14 @@ function calculateScore(song: Song, mood: UserMood): number {
   return score + Math.round(contextBonus * moodCoverage)
 }
 
+function applyConfidencePenalty(song: Song, score: number): number {
+  if (song.releaseType === "album") {
+    return Math.round(score * ALBUM_CONFIDENCE_PENALTY)
+  }
+
+  return score
+}
+
 function getTieBreaker(songId: string, seed: number): number {
   const input = `${seed}:${songId}`
   let hash = 2166136261
@@ -95,10 +111,10 @@ export function recommendSongs(
   const seed = options?.seed ?? 0
 
   const scored = songs
-    .filter((song) => song.releaseType === "single" && song.spotifyId !== null)
+    .filter((song) => song.spotifyId !== null)
     .map((song) => ({
       song,
-      score: calculateScore(song, mood),
+      score: applyConfidencePenalty(song, calculateScore(song, mood)),
       matchReasons: buildMatchReasons(song, mood),
     }))
     .sort((a, b) => {
@@ -106,10 +122,33 @@ export function recommendSongs(
         return b.score - a.score
       }
 
+      const aSingle = a.song.releaseType === "single"
+      const bSingle = b.song.releaseType === "single"
+      if (aSingle !== bSingle) {
+        return aSingle ? -1 : 1
+      }
+
       const tieA = getTieBreaker(a.song.id, seed)
       const tieB = getTieBreaker(b.song.id, seed)
       return tieA - tieB || a.song.id.localeCompare(b.song.id)
     })
 
-  return scored.filter((item) => item.score > 0).slice(0, 10)
+  const filtered = scored.filter((item) => item.score > 0)
+  const results: ScoredSong[] = []
+  let albumCount = 0
+
+  for (const item of filtered) {
+    if (item.song.releaseType === "album" && albumCount >= MAX_ALBUM_RECOMMENDATIONS) {
+      continue
+    }
+    results.push(item)
+    if (item.song.releaseType === "album") {
+      albumCount += 1
+    }
+    if (results.length >= MAX_RECOMMENDATIONS) {
+      break
+    }
+  }
+
+  return results
 }
