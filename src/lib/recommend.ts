@@ -39,30 +39,40 @@ function buildMatchReasons(song: Song, mood: UserMood): string[] {
 }
 
 function calculateScore(song: Song, mood: UserMood): number {
-  let score = 0
+  const requestedTagCount = mood.moodTags.length
+  const tagMatchCount = mood.moodTags.filter((tag) => song.moodTags.includes(tag)).length
 
-  const tagMatches = mood.moodTags.filter((tag) => song.moodTags.includes(tag))
-  score += tagMatches.length * 30
+  if (requestedTagCount === 0 || tagMatchCount === 0) {
+    return 0
+  }
 
+  const moodCoverage = tagMatchCount / requestedTagCount
+  let score = tagMatchCount * 120 + tagMatchCount * tagMatchCount * 20
+
+  if (tagMatchCount === requestedTagCount) {
+    score += 80 + requestedTagCount * 20
+  }
+
+  let contextBonus = 0
   if (mood.situation && song.situations.includes(mood.situation)) {
-    score += 20
+    contextBonus += 20
   }
 
   if (
     mood.tempoPreference === "up-tempo" &&
     ["up-tempo", "hyper"].includes(song.musicalProfile.tempo)
   ) {
-    score += 15
+    contextBonus += 15
   } else if (
     mood.tempoPreference === "ballad" &&
     isBalladLike(song)
   ) {
-    score += 15
+    contextBonus += 15
   } else if (mood.tempoPreference === "any") {
-    score += 5
+    contextBonus += 5
   }
 
-  return score
+  return score + Math.round(contextBonus * moodCoverage)
 }
 
 function getTieBreaker(songId: string, seed: number): number {
