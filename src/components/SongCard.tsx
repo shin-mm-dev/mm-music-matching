@@ -78,6 +78,7 @@ export function SongCard({ scoredSong, rank }: SongCardProps) {
             allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
+            sandbox="allow-scripts allow-same-origin allow-popups"
           />
         </div>
       )}

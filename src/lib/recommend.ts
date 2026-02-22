@@ -252,10 +252,15 @@ function flattenPrioritizedGroups(
   return flattened
 }
 
+interface AlbumMixResult {
+  readonly songs: ScoredSong[]
+  readonly minAlbumTarget: number
+}
+
 function applyAlbumMixAndFill(
   prioritizedGroups: readonly (readonly ScoredSong[])[],
   maxTotal: number,
-): ScoredSong[] {
+): AlbumMixResult {
   const candidates = flattenPrioritizedGroups(prioritizedGroups)
   const availableAlbums = candidates.filter(
     (item) => item.song.releaseType === "album",
@@ -285,7 +290,7 @@ function applyAlbumMixAndFill(
 
   for (const item of candidates) {
     if (results.length >= maxTotal) {
-      return results
+      return { songs: results, minAlbumTarget }
     }
 
     if (seenSongIds.has(item.song.id)) {
@@ -307,31 +312,16 @@ function applyAlbumMixAndFill(
     }
   }
 
-  return results
+  return { songs: results, minAlbumTarget }
 }
 
-function enforceExplorationSlot(
-  selected: readonly ScoredSong[],
+function findExplorationCandidate(
+  selectedIds: ReadonlySet<string>,
   prioritizedCandidates: readonly ScoredSong[],
-  exposureCounts?: Record<string, number>,
-): ScoredSong[] {
-  if (!exposureCounts || EXPLORATION_SLOT_COUNT <= 0) {
-    return [...selected]
-  }
-
-  const selectedUnseenCount = selected.filter(
-    (item) => getExposureCount(item.song.id, exposureCounts) === 0,
-  ).length
-  if (selectedUnseenCount >= EXPLORATION_SLOT_COUNT) {
-    return [...selected]
-  }
-
-  const selectedIds = new Set(selected.map((item) => item.song.id))
-  const albumCount = selected.filter(
-    (item) => item.song.releaseType === "album",
-  ).length
-
-  const explorationCandidate = prioritizedCandidates.find((item) => {
+  exposureCounts: Record<string, number>,
+  albumCount: number,
+): ScoredSong | undefined {
+  return prioritizedCandidates.find((item) => {
     if (selectedIds.has(item.song.id)) {
       return false
     }
@@ -343,12 +333,16 @@ function enforceExplorationSlot(
     }
     return true
   })
+}
 
-  if (!explorationCandidate) {
-    return [...selected]
-  }
-
-  const replacement = selected
+function findReplacementTarget(
+  selected: readonly ScoredSong[],
+  explorationCandidate: ScoredSong,
+  exposureCounts: Record<string, number>,
+  albumCount: number,
+  minAlbumTarget: number,
+): { item: ScoredSong; index: number } | undefined {
+  return selected
     .map((item, index) => ({ item, index }))
     .filter(
       ({ item }) => getExposureCount(item.song.id, exposureCounts) > 0,
@@ -359,7 +353,7 @@ function enforceExplorationSlot(
         (explorationCandidate.song.releaseType === "album" ? 1 : 0) -
         (item.song.releaseType === "album" ? 1 : 0)
       return (
-        nextAlbumCount >= MIN_ALBUM_RECOMMENDATIONS &&
+        nextAlbumCount >= minAlbumTarget &&
         nextAlbumCount <= MAX_ALBUM_RECOMMENDATIONS
       )
     })
@@ -369,11 +363,44 @@ function enforceExplorationSlot(
       }
       return a.item.song.id.localeCompare(b.item.song.id)
     })[0]
+}
 
+function enforceExplorationSlot(
+  selected: readonly ScoredSong[],
+  prioritizedCandidates: readonly ScoredSong[],
+  exposureCounts: Record<string, number> | undefined,
+  minAlbumTarget: number,
+): ScoredSong[] {
+  if (!exposureCounts || EXPLORATION_SLOT_COUNT <= 0) {
+    return [...selected]
+  }
+  const selectedUnseenCount = selected.filter((item) => {
+    return getExposureCount(item.song.id, exposureCounts) === 0
+  }).length
+  if (selectedUnseenCount >= EXPLORATION_SLOT_COUNT) {
+    return [...selected]
+  }
+  const selectedIds = new Set(selected.map((item) => item.song.id))
+  const albumCount = selected.filter((item) => item.song.releaseType === "album").length
+  const explorationCandidate = findExplorationCandidate(
+    selectedIds,
+    prioritizedCandidates,
+    exposureCounts,
+    albumCount,
+  )
+  if (!explorationCandidate) {
+    return [...selected]
+  }
+  const replacement = findReplacementTarget(
+    selected,
+    explorationCandidate,
+    exposureCounts,
+    albumCount,
+    minAlbumTarget,
+  )
   if (!replacement) {
     return [...selected]
   }
-
   const next = [...selected]
   next[replacement.index] = {
     ...explorationCandidate,
@@ -381,7 +408,6 @@ function enforceExplorationSlot(
       ? explorationCandidate.matchReasons
       : [...explorationCandidate.matchReasons, "発見枠"],
   }
-
   return [...next].sort((a, b) => b.score - a.score)
 }
 
@@ -474,7 +500,7 @@ export function recommendSongs(
     remainingPrimaryMatches,
     fallbackCandidates,
   ])
-  const mixedResults = applyAlbumMixAndFill(
+  const { songs: mixedResults, minAlbumTarget } = applyAlbumMixAndFill(
     [selected, remainingPrimaryMatches, fallbackCandidates],
     MAX_RECOMMENDATIONS,
   )
@@ -483,5 +509,6 @@ export function recommendSongs(
     mixedResults,
     prioritizedCandidates,
     exposureCounts,
+    minAlbumTarget,
   )
 }
