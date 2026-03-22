@@ -44,6 +44,9 @@ docs/RELEASE.md
 docs/HISTORY-GUIDE.md
 scripts/
 
+# AI tools (local only)
+.claude/
+
 # vercel
 .vercel
 
