@@ -2,6 +2,7 @@
 
 import { useState } from "react"
 import { useRouter } from "next/navigation"
+import Image from "next/image"
 import { MoodSelector } from "@/components/MoodSelector"
 import { TempoSelector } from "@/components/TempoSelector"
 import { SituationSelector } from "@/components/SituationSelector"
@@ -31,16 +32,19 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-b from-pink-50 to-white">
       <div className="max-w-lg mx-auto px-4 py-8">
         <header className="text-center mb-8">
-          <h1 className="font-extrabold text-gray-900 leading-tight tracking-tight">
-            <span className="block text-[1.5rem] sm:text-[1.9rem]">
-              モーニング娘。
-            </span>
-            <span className="mt-1 block text-[1.05rem] sm:text-[1.35rem] text-pink-600">
-              サブスク楽曲レコメンド
-            </span>
+          <h1>
+            <Image
+              src="/logo.png"
+              alt="MM Music Matching — モーニング娘。サブスク楽曲レコメンド"
+              width={400}
+              height={100}
+              className="mx-auto w-[280px] sm:w-[360px] h-auto"
+              priority
+              unoptimized
+            />
           </h1>
           <p className="text-sm text-gray-500 mt-2">
-            あなたの気分にぴったりのモーニング娘。の楽曲を見つけよう
+            あなたの気分にぴったりの楽曲を見つけよう
           </p>
         </header>
 
