@@ -2,7 +2,6 @@
 
 import { useState } from "react"
 import { useRouter } from "next/navigation"
-import Image from "next/image"
 import { MoodSelector } from "@/components/MoodSelector"
 import { TempoSelector } from "@/components/TempoSelector"
 import { SituationSelector } from "@/components/SituationSelector"
@@ -33,14 +32,13 @@ export default function Home() {
       <div className="max-w-lg mx-auto px-4 py-8">
         <header className="text-center mb-8">
           <h1>
-            <Image
-              src="/logo.png"
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/logo.png`}
               alt="MM Music Matching — モーニング娘。サブスク楽曲レコメンド"
               width={400}
               height={100}
               className="mx-auto w-[280px] sm:w-[360px] h-auto"
-              priority
-              unoptimized
             />
           </h1>
           <p className="text-sm text-gray-500 mt-2">
