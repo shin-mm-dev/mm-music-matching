@@ -21728,5 +21728,55 @@
       "寝る前",
       "カラオケ"
     ]
+  },
+  {
+    "id": "mm-442",
+    "title": "Lonely...But not Alone",
+    "titleReading": "Lonely...But not Alone",
+    "releaseDate": "2026-06-25",
+    "releaseType": "single",
+    "memberEra": "18期",
+    "spotifyId": "1qrIbt6C2t8FNqtOufHLCp",
+    "composer": {
+      "lyricist": "不明",
+      "composer": "不明",
+      "arranger": "不明",
+      "isTsunku": false
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 132,
+      "tempo": "up-tempo",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "bright",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "loneliness",
+        "empowerment"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet"
+      ],
+      "lyricMoodScore": 6,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "元気を出したい",
+      "テンション上げたい"
+    ],
+    "situations": [
+      "ワークアウト"
+    ]
   }
 ]
