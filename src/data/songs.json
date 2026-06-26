@@ -21738,10 +21738,10 @@
     "memberEra": "18期",
     "spotifyId": "1qrIbt6C2t8FNqtOufHLCp",
     "composer": {
-      "lyricist": "不明",
-      "composer": "不明",
-      "arranger": "不明",
-      "isTsunku": false
+      "lyricist": "つんく",
+      "composer": "つんく",
+      "arranger": "平田祥一郎",
+      "isTsunku": true
     },
     "musicalProfile": {
       "key": "不明",
