@@ -21778,5 +21778,109 @@
     "situations": [
       "ワークアウト"
     ]
+  },
+  {
+    "id": "mm-443",
+    "title": "YesかNoか私か",
+    "titleReading": "イエスかノーかわたしか",
+    "releaseDate": "2026-09-30",
+    "releaseType": "single",
+    "memberEra": "18期",
+    "spotifyId": "3Xo1I2laT7HIOveQ7Zv2WU",
+    "composer": {
+      "lyricist": "つんく",
+      "composer": "つんく",
+      "arranger": "大久保薫",
+      "isTsunku": true
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "minor",
+      "bpm": 180,
+      "tempo": "hyper",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 7,
+      "instrumentalMood": [
+        "bright",
+        "playful"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "love",
+        "youth"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet"
+      ],
+      "lyricMoodScore": 7,
+      "perspective": "first-person"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "恋してる",
+      "テンション上げたい",
+      "踊りたい"
+    ],
+    "situations": [
+      "通勤",
+      "友達と"
+    ]
+  },
+  {
+    "id": "mm-444",
+    "title": "光の彼方に",
+    "titleReading": "ひかりのかなたに",
+    "releaseDate": "2026-09-30",
+    "releaseType": "coupling",
+    "memberEra": "18期",
+    "spotifyId": "1QtkhDpGf5EZYR4UeNTzoi",
+    "composer": {
+      "lyricist": "つんく",
+      "composer": "つんく",
+      "arranger": "神谷礼",
+      "isTsunku": true
+    },
+    "musicalProfile": {
+      "key": "不明",
+      "mode": "major",
+      "bpm": 160,
+      "tempo": "hyper",
+      "genre": [
+        "dance",
+        "pop"
+      ],
+      "energy": 8,
+      "instrumentalMood": [
+        "dark",
+        "dramatic"
+      ]
+    },
+    "lyricalProfile": {
+      "themes": [
+        "life",
+        "empowerment",
+        "friendship"
+      ],
+      "emotionalTone": [
+        "hopeful",
+        "bittersweet"
+      ],
+      "lyricMoodScore": 8,
+      "perspective": "narrative"
+    },
+    "tsunkuGap": null,
+    "moodTags": [
+      "元気を出したい",
+      "強くなりたい"
+    ],
+    "situations": [
+      "通勤",
+      "ワークアウト"
+    ]
   }
 ]
