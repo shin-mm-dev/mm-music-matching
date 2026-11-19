@@ -34,6 +34,12 @@ jobs:
       - name: Lint
         run: npm run lint
 
+      - name: Validate songs data
+        run: npm run check:songs
+
+      - name: Run recommendation tests
+        run: npm run test:recommend
+
       - name: Build static export
         run: npm run build
         env:

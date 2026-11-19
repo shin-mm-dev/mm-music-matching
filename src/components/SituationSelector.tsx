@@ -1,15 +1,6 @@
 "use client"
 
-const SITUATION_OPTIONS = [
-  { value: "通勤", emoji: "🚃" },
-  { value: "ワークアウト", emoji: "🏋️" },
-  { value: "寝る前", emoji: "🌙" },
-  { value: "作業中", emoji: "💻" },
-  { value: "友達と", emoji: "👯" },
-  { value: "カラオケ", emoji: "🎤" },
-  { value: "夜ひとりで", emoji: "🌃" },
-  { value: "雨の日", emoji: "🌧️" },
-] as const
+import { SITUATION_OPTIONS } from "@/constants/options"
 
 interface SituationSelectorProps {
   selected: string | undefined
@@ -35,6 +26,7 @@ export function SituationSelector({ selected, onChange }: SituationSelectorProps
               key={value}
               type="button"
               onClick={() => toggle(value)}
+              aria-pressed={isSelected}
               className={`
                 flex items-center gap-1.5 px-3 py-2 rounded-full text-[13px] sm:text-sm font-medium whitespace-nowrap
                 transition-all duration-200

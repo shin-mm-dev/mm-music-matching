@@ -1,6 +1,6 @@
 ## モーニング娘。サブスク楽曲レコメンド
 
-モーニング娘。シングル119曲を対象に、気分に合わせて楽曲を提案するNext.jsアプリです。
+モーニング娘。のシングル・アルバム曲・カップリング曲を含む全444曲を対象に、気分や曲調・シチュエーションに合わせて楽曲を提案するNext.jsアプリです。
 
 ## ローカル起動
 
@@ -14,8 +14,12 @@ npm run dev
 
 ```bash
 npm run lint
+npm test
 npm run build
 ```
+
+- `npm test`: 楽曲データ（`src/data/songs.json`）の形式・品質チェック（`npm run check:songs`）と推薦ロジックの自動テスト（`npm run test:recommend`）を実行します。
+- ビルド済みの画面の簡易起動確認を行いたい場合は `npm run check:smoke` も利用できます。
 
 ## GitHub Pages デプロイ
 
@@ -29,7 +33,7 @@ npm run build
 
 ### 2. 公開フロー
 
-- `main` に push すると、`.github/workflows/deploy-pages.yml` が走って自動公開
+- `main` に push すると、`.github/workflows/deploy-pages.yml` が走って自動公開（Lint・データ検証・推薦テスト・静的ビルドが自動実行されます）
 - 手動実行したいときは `Actions` タブから `Deploy GitHub Pages` を `Run workflow`
 
 ### 3. 公開URL

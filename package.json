@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "check:songs": "node --import tsx tests/validate-songs.ts",
+    "test:recommend": "node --import tsx --test tests/recommend.test.ts",
+    "test": "npm run check:songs && npm run test:recommend",
+    "check:smoke": "node --import tsx scripts/check/smoke-app.ts"
   },
   "dependencies": {
     "next": "16.1.6",

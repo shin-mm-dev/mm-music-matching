@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useRef, useState } from "react"
+import { useEffect, useRef } from "react"
 import type { ScoredSong } from "@/types/song"
 
 const EXPOSURE_COUNTS_STORAGE_KEY = "musume-mood-exposure-counts-v1"
@@ -29,50 +29,50 @@ function parseExposureCounts(raw: string | null): Record<string, number> {
   }
 }
 
-interface UseExposureTrackingResult {
-  exposureCountsSnapshot: Record<string, number>
-}
+// ブラウザに保存されている「これまでおすすめに表示された回数」を安全に読み取る
+export function readExposureCounts(): Record<string, number> {
+  if (typeof window === "undefined") {
+    return {}
+  }
 
-export function useExposureTracking(
-  results: readonly ScoredSong[],
-): UseExposureTrackingResult {
-  const [exposureCountsSnapshot] = useState<Record<string, number>>(() => {
-    if (typeof window === "undefined") {
-      return {}
-    }
+  try {
     return parseExposureCounts(
       window.localStorage.getItem(EXPOSURE_COUNTS_STORAGE_KEY),
     )
-  })
-  const exposureCountsRef = useRef<Record<string, number>>(exposureCountsSnapshot)
-  const recordedResultKeyRef = useRef("")
+  } catch {
+    return {}
+  }
+}
+
+// 画面に表示された楽曲の露出回数を記録し、次回以降に新しい曲が混ざりやすくなるようにする
+export function useExposureTracking(
+  results: readonly ScoredSong[],
+  recordKey: string,
+): void {
+  const recordedKeyRef = useRef("")
 
   useEffect(() => {
-    if (results.length === 0 || typeof window === "undefined") {
+    if (results.length === 0 || recordKey === "" || typeof window === "undefined") {
       return
     }
 
-    const requestKey = results.map((item) => item.song.id).join(",")
-    if (recordedResultKeyRef.current === requestKey) {
+    if (recordedKeyRef.current === recordKey) {
       return
     }
-    recordedResultKeyRef.current = requestKey
+    recordedKeyRef.current = recordKey
 
-    const nextCounts = { ...exposureCountsRef.current }
+    const nextCounts = { ...readExposureCounts() }
     for (const item of results) {
       nextCounts[item.song.id] = (nextCounts[item.song.id] ?? 0) + 1
     }
 
-    exposureCountsRef.current = nextCounts
     try {
       window.localStorage.setItem(
         EXPOSURE_COUNTS_STORAGE_KEY,
         JSON.stringify(nextCounts),
       )
     } catch {
-      // Ignore storage write failures and keep recommendations available.
+      // 保存できない環境でも推薦結果の表示自体は続行する
     }
-  }, [results])
-
-  return { exposureCountsSnapshot }
+  }, [results, recordKey])
 }

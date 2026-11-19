@@ -139,7 +139,8 @@ function getFallbackScore(song: Song, mood: UserMood): number {
 
   if (song.releaseType === "single") {
     score += 10
-  } else if (song.releaseType === "album") {
+  } else if (song.releaseType === "album" || song.releaseType === "coupling") {
+    // アルバム曲とカップリング曲は同等の基礎点を付与する
     score += 5
   }
 
@@ -233,19 +234,63 @@ function weightedRandomSample(
   return [...selected].sort((a, b) => b.score - a.score)
 }
 
+// スコア降順を基本とし、同点時はシングル曲を優先・最後はID順で安定ソートする
+function compareFinalRecommendations(a: ScoredSong, b: ScoredSong): number {
+  if (a.score !== b.score) {
+    return b.score - a.score
+  }
+
+  const aSingle = a.song.releaseType === "single"
+  const bSingle = b.song.releaseType === "single"
+  if (aSingle !== bSingle) {
+    return aSingle ? -1 : 1
+  }
+
+  return a.song.id.localeCompare(b.song.id)
+}
+
+// 同一のSpotify音源（シングル版とアルバム版など）が同じ候補一覧に重複して入らないよう除外する
+function dedupeBySpotifyId(
+  items: readonly ScoredSong[],
+  excludedSpotifyIds?: ReadonlySet<string>,
+): ScoredSong[] {
+  const deduped: ScoredSong[] = []
+  const seenSpotifyIds = new Set<string>(excludedSpotifyIds)
+
+  for (const item of items) {
+    const spotifyId = item.song.spotifyId
+    if (spotifyId !== null) {
+      if (seenSpotifyIds.has(spotifyId)) {
+        continue
+      }
+      seenSpotifyIds.add(spotifyId)
+    }
+    deduped.push(item)
+  }
+
+  return deduped
+}
+
 function flattenPrioritizedGroups(
   prioritizedGroups: readonly (readonly ScoredSong[])[],
 ): ScoredSong[] {
   const flattened: ScoredSong[] = []
   const seenSongIds = new Set<string>()
+  const seenSpotifyIds = new Set<string>()
 
   for (const items of prioritizedGroups) {
     for (const item of items) {
       if (seenSongIds.has(item.song.id)) {
         continue
       }
+      if (item.song.spotifyId !== null && seenSpotifyIds.has(item.song.spotifyId)) {
+        continue
+      }
       flattened.push(item)
       seenSongIds.add(item.song.id)
+      if (item.song.spotifyId !== null) {
+        seenSpotifyIds.add(item.song.spotifyId)
+      }
     }
   }
 
@@ -274,26 +319,40 @@ function applyAlbumMixAndFill(
 
   const results: ScoredSong[] = []
   const seenSongIds = new Set<string>()
+  const seenSpotifyIds = new Set<string>()
   let albumCount = 0
+
+  const addCandidate = (item: ScoredSong): void => {
+    results.push(item)
+    seenSongIds.add(item.song.id)
+    if (item.song.spotifyId !== null) {
+      seenSpotifyIds.add(item.song.spotifyId)
+    }
+    if (item.song.releaseType === "album") {
+      albumCount += 1
+    }
+  }
+
+  const isDuplicate = (item: ScoredSong): boolean =>
+    seenSongIds.has(item.song.id) ||
+    (item.song.spotifyId !== null && seenSpotifyIds.has(item.song.spotifyId))
 
   for (const item of candidates) {
     if (results.length >= maxTotal || albumCount >= minAlbumTarget) {
       break
     }
-    if (item.song.releaseType !== "album") {
+    if (item.song.releaseType !== "album" || isDuplicate(item)) {
       continue
     }
-    results.push(item)
-    seenSongIds.add(item.song.id)
-    albumCount += 1
+    addCandidate(item)
   }
 
   for (const item of candidates) {
     if (results.length >= maxTotal) {
-      return { songs: results, minAlbumTarget }
+      break
     }
 
-    if (seenSongIds.has(item.song.id)) {
+    if (isDuplicate(item)) {
       continue
     }
 
@@ -304,25 +363,26 @@ function applyAlbumMixAndFill(
       continue
     }
 
-    results.push(item)
-    seenSongIds.add(item.song.id)
-
-    if (item.song.releaseType === "album") {
-      albumCount += 1
-    }
+    addCandidate(item)
   }
 
+  // アルバム枠を確保したうえで、最終的な表示順位はスコア順に揃える
+  results.sort(compareFinalRecommendations)
   return { songs: results, minAlbumTarget }
 }
 
 function findExplorationCandidate(
   selectedIds: ReadonlySet<string>,
+  selectedSpotifyIds: ReadonlySet<string>,
   prioritizedCandidates: readonly ScoredSong[],
   exposureCounts: Record<string, number>,
   albumCount: number,
 ): ScoredSong | undefined {
   return prioritizedCandidates.find((item) => {
     if (selectedIds.has(item.song.id)) {
+      return false
+    }
+    if (item.song.spotifyId !== null && selectedSpotifyIds.has(item.song.spotifyId)) {
       return false
     }
     if (getExposureCount(item.song.id, exposureCounts) !== 0) {
@@ -372,24 +432,30 @@ function enforceExplorationSlot(
   minAlbumTarget: number,
 ): ScoredSong[] {
   if (!exposureCounts || EXPLORATION_SLOT_COUNT <= 0) {
-    return [...selected]
+    return [...selected].sort(compareFinalRecommendations)
   }
   const selectedUnseenCount = selected.filter((item) => {
     return getExposureCount(item.song.id, exposureCounts) === 0
   }).length
   if (selectedUnseenCount >= EXPLORATION_SLOT_COUNT) {
-    return [...selected]
+    return [...selected].sort(compareFinalRecommendations)
   }
   const selectedIds = new Set(selected.map((item) => item.song.id))
+  const selectedSpotifyIds = new Set(
+    selected
+      .map((item) => item.song.spotifyId)
+      .filter((spotifyId): spotifyId is string => spotifyId !== null),
+  )
   const albumCount = selected.filter((item) => item.song.releaseType === "album").length
   const explorationCandidate = findExplorationCandidate(
     selectedIds,
+    selectedSpotifyIds,
     prioritizedCandidates,
     exposureCounts,
     albumCount,
   )
   if (!explorationCandidate) {
-    return [...selected]
+    return [...selected].sort(compareFinalRecommendations)
   }
   const replacement = findReplacementTarget(
     selected,
@@ -399,7 +465,7 @@ function enforceExplorationSlot(
     minAlbumTarget,
   )
   if (!replacement) {
-    return [...selected]
+    return [...selected].sort(compareFinalRecommendations)
   }
   const next = [...selected]
   next[replacement.index] = {
@@ -408,21 +474,11 @@ function enforceExplorationSlot(
       ? explorationCandidate.matchReasons
       : [...explorationCandidate.matchReasons, "発見枠"],
   }
-  return [...next].sort((a, b) => b.score - a.score)
+  return [...next].sort(compareFinalRecommendations)
 }
 
 function comparePrimaryMatches(a: ScoredSong, b: ScoredSong): number {
-  if (a.score !== b.score) {
-    return b.score - a.score
-  }
-
-  const aSingle = a.song.releaseType === "single"
-  const bSingle = b.song.releaseType === "single"
-  if (aSingle !== bSingle) {
-    return aSingle ? -1 : 1
-  }
-
-  return a.song.id.localeCompare(b.song.id)
+  return compareFinalRecommendations(a, b)
 }
 
 function compareFallbackMatches(
@@ -465,9 +521,14 @@ export function recommendSongs(
       }
     })
 
-  const primaryMatches = scored
-    .filter((item) => item.score > 0)
-    .sort(comparePrimaryMatches)
+  const primaryMatches = dedupeBySpotifyId(
+    scored.filter((item) => item.score > 0).sort(comparePrimaryMatches),
+  )
+  const primarySpotifyIds = new Set(
+    primaryMatches
+      .map((item) => item.song.spotifyId)
+      .filter((spotifyId): spotifyId is string => spotifyId !== null),
+  )
   const candidatePool = primaryMatches.slice(0, CANDIDATE_POOL_SIZE)
 
   const selected =
@@ -479,21 +540,24 @@ export function recommendSongs(
   const remainingPrimaryMatches = primaryMatches.filter(
     (item) => !selectedIds.has(item.song.id),
   )
-  const fallbackCandidates = scored
-    .filter(
-      (item) => item.score === 0 && !selectedIds.has(item.song.id),
-    )
-    .map((item) => ({
-      ...item,
-      score:
-        getFallbackScore(item.song, mood) +
-        (enableDiscoveryAdjustments
-          ? Math.floor(getNoveltyBonus(getExposureCount(item.song.id, exposureCounts)) / 2)
-          : 0),
-      matchReasons: buildFallbackReasons(item.song, mood),
-    }))
-    .filter((item) => item.score > 0)
-    .sort((a, b) => compareFallbackMatches(a, b, seed))
+  const fallbackCandidates = dedupeBySpotifyId(
+    scored
+      .filter(
+        (item) => item.score === 0 && !selectedIds.has(item.song.id),
+      )
+      .map((item) => ({
+        ...item,
+        score:
+          getFallbackScore(item.song, mood) +
+          (enableDiscoveryAdjustments
+            ? Math.floor(getNoveltyBonus(getExposureCount(item.song.id, exposureCounts)) / 2)
+            : 0),
+        matchReasons: buildFallbackReasons(item.song, mood),
+      }))
+      .filter((item) => item.score > 0)
+      .sort((a, b) => compareFallbackMatches(a, b, seed)),
+    primarySpotifyIds,
+  )
 
   const prioritizedCandidates = flattenPrioritizedGroups([
     selected,

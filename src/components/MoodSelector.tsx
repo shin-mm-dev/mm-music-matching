@@ -1,18 +1,6 @@
 "use client"
 
-const MOOD_OPTIONS = [
-  { tag: "元気を出したい", emoji: "💪" },
-  { tag: "落ち着きたい", emoji: "🍵" },
-  { tag: "泣きたい", emoji: "🥹" },
-  { tag: "恋してる", emoji: "💕" },
-  { tag: "強くなりたい", emoji: "🔥" },
-  { tag: "懐かしい気持ち", emoji: "🌅" },
-  { tag: "何も考えたくない", emoji: "☁️" },
-  { tag: "テンション上げたい", emoji: "🎉" },
-  { tag: "踊りたい", emoji: "💃" },
-] as const
-
-const MAX_MOOD_SELECTION = 3
+import { MAX_MOOD_SELECTION, MOOD_OPTIONS } from "@/constants/options"
 
 interface MoodSelectorProps {
   selected: string[]

@@ -2,30 +2,29 @@
 
 import { useSearchParams } from "next/navigation"
 import { useMemo } from "react"
+import {
+  parseMoodTagsParam,
+  parseSituationParam,
+  parseTempoParam,
+  type TempoPreference,
+} from "@/constants/options"
 import type { UserMood } from "@/types/song"
 
 interface RecommendParamsResult {
   mood: UserMood
   moodTags: string[]
-  tempoPreference: UserMood["tempoPreference"] | undefined
+  tempoPreference: TempoPreference | undefined
   situation: string | undefined
 }
 
 export function useRecommendParams(): RecommendParamsResult {
   const searchParams = useSearchParams()
 
-  const moodParam = searchParams.get("moods") ?? ""
-  const rawTempo = searchParams.get("tempo")
-  const tempoPreference: UserMood["tempoPreference"] | undefined =
-    rawTempo === "ballad" || rawTempo === "up-tempo" || rawTempo === "any"
-      ? rawTempo
-      : undefined
-  const situation = searchParams.get("situation") ?? undefined
+  const rawMoods = searchParams.get("moods")
+  const tempoPreference = parseTempoParam(searchParams.get("tempo"))
+  const situation = parseSituationParam(searchParams.get("situation"))
 
-  const moodTags = useMemo(
-    () => [...new Set(moodParam.split(",").filter(Boolean))].slice(0, 3),
-    [moodParam],
-  )
+  const moodTags = useMemo(() => parseMoodTagsParam(rawMoods), [rawMoods])
 
   const mood = useMemo<UserMood>(
     () => ({
