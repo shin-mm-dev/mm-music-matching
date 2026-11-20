@@ -1,0 +1,13 @@
+title = "musume-mood gitleaks config"
+
+# Gitleaks の標準ルール（APIキーやパスワード等の検知ルール）をそのまま引き継ぐ
+[extend]
+useDefault = true
+
+# ブラウザ保存用（localStorage）の名前が誤ってAPIキーと判定される誤検知のみを除外する
+# ※ paths を書かずにこの文字列だけを指定することで、他の本物の機密情報は引き続き確実に検知される
+[allowlist]
+description = "Ignore browser localStorage key name misdetected as generic-api-key"
+regexes = [
+  '''^musume-mood-exposure-counts-v1$''',
+]
